@@ -1,0 +1,1526 @@
+Full Name,Ext,Department,Fax,Level,Position
+A. Amran b Mohd Sharif,5555,Facilities Management & General Services,20505221,Menara B1,Pengawal (Kontark)
+Abd Aziz bin Abd Manaf,5336,Marketing & Financial Literacy Department ASNB,20505164,Menara 7,Senior Clerk
+Abd Hamid b. Arshad,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Abd Melik b Abu Bakar,5555,Facilities Management & General Services,20505221,B1,Pengawal Keselamatan
+Abd Rahman b Wan Abdullah,5555,Facilities Management & General Services,20505221,Menara B1,Pengawal Keselamatan (Kontrak)
+Abd. Latif b. Asri,5734,Facilities Management & General Services,03-20505221,Menara B2,Pngwl. Keslamtn\Pmndu.
+Abd. Taib Maning,6009,Branch Management & Supervision,088-218814,ASNB Kota Kinabalu,Eks. I
+Abdul  Rashid Musa,5141,Facilities Management & General Services (Eng),20505221,Menara 24,Manager
+Abdul Azim b Mohamed,3140,Domestic & International Properties,20505221,Menara 24,Senior Associate
+Abdul Aziz Md Isa,5817,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani Kanan
+Abdul Ghafar Md Jais,5253,IT Service Management,20573163,Menara 33,Pengurus
+Abdul Ghaffor Abdul Aziz,20940173,Facilities Management & General Services (Eng),NA,Bilik BAS,Pembantu Penyelia Penyelenggaraan
+Abdul Halim bin Jusoh,5408,Communications,20505268,Menara 4,Associate Manager
+Abdul Hanan Mohd Nor,6073\6072,Branch Management & Supervision,04-3994378,ASNB Bayan Lepas,Juruwang
+Abdul Jalil bin Hj Yeop Majlis,3130,Unit Trust Operation & Record Admin,20505271,Menara 7,Associate Manager
+Abdul Kadir Jamaludin,6071,Education,06-7995099,Kolej Ilmu,Senior Clerk
+Abdul Kamaruzaman Abd. Rahma,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Abdul Khabir Ghazali,6001 \ 6021,Branch Management & Supervision,04-3994404,ASNB Butterworth,Kerani\Jrtknik Ren.
+Abdul Latif Alias,5555,Facilities Management & General Services,20505221,Menara  B1,Pengawal (Kontrak)
+Abdul Malek b Ahmad,6072\6073,Branch Management & Supervision,04-6406520,ASNB Bayan Lepas,Eksekutif  II
+Abdul Malek Jeman,6013,Branch Management & Supervision,084-322497,ASNB Sibu,Kerani\Jrtknik Ren.
+Abdul Rahim Ahmad,5374,Technology Support Services,NA,Menara 10,Penolong Naib Presiden
+Abdul Rahim Yub Zakaria,5683,Business Solution Department,20505790,Menara 25,Senior Clerk
+Abdul Rahman Amir,6072\6073,Branch Management & Supervision,04-6406520,ASNB Bayan Lepas,Eksekutif II
+Abdul Rahman b Abdul Hamid,3025,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Senior Associate
+Abdul Rahman bin Nordin,5483,Education,NA,Menara 38,Clerk
+Abdul Rahman bin Zulkefli,5251,Office Of President & GCEO,21629310,Secondment to PNB Development,Pemandu Peribadi
+Abdul Rahman Idris,20921553,Facilities Management & General Services (Eng),20945715,PNB Damansara,Chargeman
+Abdul Rani b Hj Mohd Salleh,-,Sales & Channel Management,NA,Menara 25,Pengurus Kanan
+Abdul Razak bin Idris,5674,Compliance Dept.,NA,Menara 26,Associate
+Abdul Razak bin Salimin,5370,Fund Management,21611075,Menara 16,Associate Manager
+Abdul Razak Jaafar,20940173,Facilities Management & General Services (Eng),20945715,PNB Damansara,Associate Manager
+Abdul Razib b Awang,6018,Facilities Management & General Services,06-7990969,Kota Seriemas,Pengawal Keselamatan
+Abdul Rohim b Mohd Ashari,5444,Facilities Management & General Services (Eng),NA,BAS,NA
+Abdul Thani Abdul Latip,6011,Branch Management & Supervision,082-250313,ASNB Kuching,Eks. I
+Abdullah b Ahmad,5555,Facilities Management & General Services,20505221,Menara B1,Pengawal Keselamatan (kontark)
+Abdullah Sani Abdul Rahman,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTA SERIMAS,NA
+Abdullah Tahir Jaafar,20921553,Facilities Management & General Services,NA,PNB Damansara Setia2 Menara I&P2,Group Leader
+Abg Ahmad bin Abg Aing,5769,Shariah Management,03 20505678,Menara 38,Associate Kanan
+Abu Hassan Basri,5559,Unit Trust,20505271,Menara 8,Associate
+Abu Mansor Hj Hattan,6008,Branch Management & Supervision,07-2232533,ASNB Johor Bahru,Ketua Pejabat
+Abu Mansur Abdullah,20940173,Facilities Management & General Services,20945715,PNB Damansara,Ketua Kumpulan
+Adam Bin Ishak,5715\0392127018,PNB Merdeka Ventures Sdn Bhd,20505820,Site office 118,HeadProperty Dev'ment(Retail&Infrastructure)
+Adibah Khairiah Ismail @ Daud,5615,Company Secretary,21633477,Menara 9,Setiausaha Syarikat
+Adila binti Ahmad,5406,Pelaburan Hartanah Nasional Berhad,NA,Menara 31,Assistant Manager
+Adilah bt Ghazali,5641,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Eksekutif II
+Adlan Alang Dahari,5514,Branch Management & Supervision,21630219,Menara B2,Store Supervisor
+Adnan b Mamat,5555,Facilities Management & General Services,20505221,Menara B1,Pengawal (Kontrak)
+Adni bin Md Dahalan,5154,Fixed Income,21629335,Menara 17,Manager
+Adniz binti Mohd Affandi,5835,Fund Management,21611075,Menara 16,Senior Manager
+Adora Asyikin binti Kamaruddin,5827,Investment Analysis,NA,Menara 18,Associate Manager
+Afiq bin Ja'afar Sidik,5504,Private Investment & Special Projects,21610963,Menara 23,Analyst
+Afridah binti Komari,5291,Finance Department,20505880,Menara 29,Associate Manager
+Ahamad Ramlee Mohammed Kassim,5449,HR Operations & Adminstration,20505300,Menara 35,Senior Associate
+Ahirah bte Abdul Rahman,20340803,Amanah Mutual Berhad,03-21631232\21633848,Menara 34,Assistant Vice President
+Ahmad Ali Abdul Ghani,6000 \ 6020,Branch Management & Supervision,04-7314140,ASNB Alor Setar,Kerani Kanan \ Stenograher
+Ahmad Basri bin Ibrahim,5651,Shariah Management,03 20505678,Menara 38,Head Special Project (Islamic)
+Ahmad bin Mohd Sharom,20340840,Amanah Mutual Berhad,03-21633212\21632535,Menara 34,Associate
+Ahmad Buhairi Lat,9696,Procurement,NA,Menara 30,Service Assistant
+Ahmad Daud bin Mohamed,5132,HR Operations & Adminstration,20505300,Menara 35,Senior Associate
+Ahmad Fadzil Mohammed Shariff,9745,Compliance Dept.,20505870,Menara 26,Associate
+Ahmad Fahmi b Mohd Said,20340829,Facilities Management & General Services,NA,Menara,Eksekutif
+Ahmad Faiz bin Ahmad Shahrudin,5621,Public Equity,NA,Menara 9,Associate Manager
+Ahmad Fauzi Mohd Jelas,5386,Unit Trust Operation & Record Admin,20505271,Menara 7,Senior Manager -Investment Services
+Ahmad Firdaus bin Abdullah,5177,International,21611075,Menara 16,Naib Presiden
+Ahmad Hamizan Amat Sahari,9764,Fund Management,NA,Menara 16,Associate
+Ahmad Ikhwan Hassan,5444,Facilities Management & General Services (Eng),20505221,Menara UG,Juruteknik
+Ahmad Imran bin Busu,9761,Economics,NA,Menara 15,Analyst
+Ahmad Junaidi Mohamad,5556,Unit Trust Operation & Record Admin,20505271,Menara 8,Associate
+Ahmad Layalee Alias,3129,Business Solution Department,20505790,Menara 25,Senior Associate
+Ahmad Lebak,5208,Facilities Management & General Services (Eng),20505221,Menara 24,Kerani\Jrtknik Ren.
+Ahmad Lofti bin Md Zan,5444,Property\Real Estate,2,Bilik BAS,NA
+Ahmad Mustapha Mohd Yahya,5646,Business Application System,,Menara 33,Pengurus
+Ahmad Naim bin Aminnudin,5591,Investment Analysis,NA,Menara 18,Manager
+Ahmad Nazri bin Norbi,9643,Sales & Channel Management,NA,Menara 25,Associate Manager
+Ahmad Nizam Hassan,5444,Facilities Management & General Services (Eng),20505221,Menara UG,Jururencam
+Ahmad Radhi Mohammad,5858,Education,20505845,Menara 38,Senior Associate
+Ahmad Raimi b Hamdan,03-20340835\3035,Amanah Mutual Berhad,21625958,Menara 34,Associate
+Ahmad Rizal bin Mohd Rashid,5859,Fund Management,21629335,Menara 16,Senior Manager
+Ahmad Shahir bin Mahfudz,9706,Strategic Asset Allocation,NA,Menara 15,Analyst
+Ahmad Sharil b Abdul Rahim,5444,Facilities Management & General Services (Eng),20505221,Menara 24,Juruteknik
+Ahmad Syazwan bin Ismail,5658,Financial & Mgmt Audit,20505264,Menara 26,Senior Associate
+Ahmad Tabti Kadri,20921553,Facilities Management & General Services (Eng),20945715,PNB Damansara & Setia 2,Juruteknik
+Ahmad Tarquin Mohammad Khalid,5572,ASNB Accounts,NA,Menara 37,Naib Presiden
+Ahmad Yani Ibrahim,5322,PNB Research Institute,NA,Menara 5,Associate Manager
+Ahmad Yusof bin Mat Nasir,5764,Company Secretary,21633477,Menara 9,Associate
+Ahram Hakimy b Abdul Rahim,NA,Human Capital Planning & Development,20505270,Menara 36,Eksekutif Pelatih
+Aida binti Md Daud,5639,Human Capital,20505270,Menara 35,Naib Presiden Kanan- Human Capital
+Aida Hazrina Mohd Tazaai,5767,Public Equity,20505772,Menara 9,Manager
+Aida Ithnin,5570,PNB Merdeka Ventures Sdn Bhd,NA,Menara 19,Pengurus Kanan Leasing
+Aida Munira binti Abdul Manan,320241435,Programme Management Office,NA,Menara 33,Senior Manager
+Aidi Izham bin Mohd Khalil,0320241490,Management Information System,NA,Menara 33,Associate Kanan
+Aimisyam Azian binti Aziz,5327,Communications,NA,Menara 4,Vice President
+Ainaa Fatehah bt Abd Razak,9736,Branch Management & Supervision,NA,ASNB Main KL (Kaunter),Associate
+Aini Azula Shafie,5510,Procurement,20505265,Menara 30,Associate
+Aisha binti Mohd Izam,5710,Investment Analysis,NA,Menara 18,Senior Analyst
+Aishah binti Mohd Nor Mazlan,320241414,PNB Value Homes,NA,Menara 3,Associate
+Aisharani binti Shaarani,5756,Unit Trust Strategy & Product Management Dpt. ASNB,21610082,Menara 25,Associate Manager
+Akmal Hamdi bin Hassan,5789,HR Operations & Adminstration,20505300,Menara 35,Pengurus
+Al Afiq b Adam Afizee Nair,9647,Sales & Channel Management,NA,Menara 25,Associate
+Aldilla @Zilfalila Abdul Halim,20340801\3176,Amanah Mutual Berhad,03-21633212,Menara 34,Ketua Pegawai Eksekutif
+Alia bt Adam,5594,Research Division,20505233,Menara 5,Eksekutif II
+Alia bt Salleh,3090,Investment Analysis,NA,Menara 18,Senior Analyst
+Alias bin Daud,-,PNB Merdeka Ventures Sdn Bhd,NA,Stadium Merdeka,Pengurus Kanan
+Alif bin Bakar,6091 \ 6092 \ 6093 \ 6095,Branch Management & Supervision,03 32813221,ASNB Kuala Selangor,Pengurus Cawangan
+Alina Murni bt Md Isa,9622,Communications,20505268,Menara 4,Pengurus
+Alyfah Zatul Himmah Khazin,6035\6036,Branch Management & Supervision,04-9760800,ASNB Kangar,Kerani \ Juruteknik Rendah
+Amalluddin bin Razi,NA,Facilities Management & General Services (Eng),NA,Stadium Merdeka,Juruteknik
+Amanah Mutual Berhad,5404,Amanah Mutual Berhad,21625958,Menara 34,NA
+AMANAH RAYA BERHAD ARB,20729999,PNB,NA,NA,NA
+Amanah Saham Mara,41453800,PNB,NA,NA,NA
+Amelia Farida binti Ibrahim,5632,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Associate Manager
+Amer Abi Hashim,5208,Facilities Management & General Services (Eng),20505221,Menara B2,Jrtknik
+Amerul Hakim bin Lokman,5850,Procurement,NA,Menara 30,Associate
+Aminah Abdul Rahman,5497,Company Secretary,21633477,Menara 9,Eksekutif I
+Aminah bt Haji Mahadi,5445,Marketing & Financial Literacy Department ASNB,20505268,Menara 7,Pengurus Kanan
+Aminnordin Sukor,5555,Facilities Management & General Services,20505221,Menara B1,Pengawal Keselamatan (Kontrak)
+Amirah binti Alam,5348,Economics,20505233,Menara 15,Analyst
+Amirah Hamizah bt Abdul Hamid,6071,Education,06-7995099,Kolej Ilmu,Warden\Eksekutif Hal Ehwal Pelajar (Kontrak)
+Amirul Habibullah b Amir Hakim,5755,Office Of President & GCEO,03 20505772,Menara 9,Senior Associate
+Amirulazmel Ahmad,5279,Technology Support Services,20573163,Menara 10,Associate
+Amizar Mizuar,5645,Public Equity,NA,Menara 6,Vice President
+AMPANG PUTERI,42702500,PNB,NA,NA,NA
+Amran bin Alias,5205,Group Finance Human Capital & IT,20505880,Menara 29,Personal Driver
+Ana Sabrina bt Mohd Mokhtar,6001\6021,Branch Management & Supervision,04-3994404,ASNB Butterworth,Eksekutif Kanan
+Anas bin Ahamad Tajudin,9610,Private Investment & Special Projects,NA,Menara 23,Analyst
+Andi Rawzi Md Rawi,6003\6023,Branch Management & Supervision,06 7633384,ASNB Seremban,Pengurus Cawangan
+Anhar Noranis,6087,Branch Management & Supervision,88904880,ASNB Putrajaya,Juruwang
+Anis Fareeda Mohd Nor,NA,Human Capital Planning & Development,20505270,Menara 36,Eksekutif II
+Anis Nabila binti Yusof,9673,Agent Management & Cust. Relations Dept. ASNB,NA,UG Balai,Associate
+Anisah Bee Mohamed Maidin,5333,Management Information System,NA,Menara 33,Associate Kanan
+Anuar bin Misngun,5582,ASNB Accounts,20505273,Menara 37,Senior Associate
+Anuar Yeop Kamaruddin,5661,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani Kanan
+Anwar bin Johari,5314,Fund Management,21629335,Menara 16,Assistant Vice President
+Apidah binti Musa,5470,Shariah Management,03 20505678,Menara 38,Stenographer
+Appandi bin Mustafa,321610677,Facilities Management & General Services,20505221,UTM SPACE,Manager
+Arazaman Bin Idris,6018 \ 06-7990868,Facilities Management & General Services,NA,Kota Seriemas,Pengawal (Kontrak)
+Arham Hakimy bin Abdul Rahim,3093,Investment Analysis,NA,Menara 18,Senior Analyst
+Arif Rahimi bin Aman Shah,9797,Risk Mngmt.,320759733,Menara 28,Associate
+Ariff bin Ismail,9631,Public Equity,20505772,Menara 9,Senior Analyst
+Arnizah binti Ahmad,20340842,Amanah Mutual Berhad,03-21633212\21632535,Menara 34,Senior Associate
+Arshad Alias,26946972,Facilities Management & General Services,26913791,Menara Tun Ismail Mohd Ali,Penyelia Keselamatan
+Arshad Hassan,74903543,Facilities Management & General Services (Eng),74903399,PNB Darby Park,Ketua Kumpulan
+Asli Amat,6010,Branch Management & Supervision,089-210597,ASNB Sandakan,Kerani Kanan \ Steno
+Aslida Abd Aziz,6084 - 55104133,Branch Management & Supervision,03-55137155,ASNB Shah Alam,NA
+Asmahani binti Ismail,5216,Legal Dept.,NA,Menara 19,Associate
+Asmar Abdullah,6000\6020,Branch Management & Supervision,47314140,ASNB Alor Setar,Kerani\Juruteknik Rendah
+Asmin Ibrahim bin Samin,9707,Public Equity,NA,Menara 9,Analyst
+ASNB Putrajaya,88904880\6086,PNB,88904890,Putrajaya,NA
+Asraf bin Abdul Rahman,5196,PNB Research Institute,NA,Menara 5,Associate
+Atina Sham Ramli,5568,Finance Department,20505880,Menara 29,Manager
+Awang Adha b Awang Omar,6011\6031,Branch Management & Supervision,082-250313,ASNB Kuching,Juruwang
+Awang Zaidi Awang Ali Akbar,6014,Branch Management & Supervision,083-323233,ASNB Sri Aman,Kerani Kanan\Steno.
+Awanis binti Ahmad,320759775,Public Equity,NA,Menara 9,Senior Analyst
+Awin Nas Ayu bt Aminuddin,5630,HR Operations & Adminstration,20505300,UG Balai,Pembantu Pentadbiran
+Ayusuffina binti Mohd Abdad,3049,Legal Dept.,20505750,Menara 19,Senior Associate
+Azalina Dollah,NA,Branch Management & Supervision,NA,ASNB Bintulu,Eksekutif I
+Azaman Abdul Hamid,5672,Unit Trust Operation & Record Admin,20505225,Menara 8,Clerk
+Azean Suheley Mohd Tazilan,5773,Business Application Systems,NA,Menara 33,Senior Associate
+Azhar bin Abdul,5303,HR Operations & Adminstration,20505300,Menara 35,Assistant Vice President
+Azhar bin Baharudin,3077,ASNB Accounts,20505273,Menara 37,Senior Clerk
+Azhar Ezani Abdul Muluf,5125,Agent Management & Cust. Relations Dept. ASNB,20505220,Balai UG,Senior Associate
+Azhar Mohamed Yusop,5475,HR Operations & Adminstration,20505300,Menara 35,Pemandu
+Aziah binti Abdul Aziz,5143,Equity Market Operations,21629335,Menara 17,Pengurus
+Azida Nisha Bt Mohd Ghazli,5733,HR Operations & Adminstration,20505300,Menara 35,Eksekutif Kanan
+Azira Ahmad Zamzuri,5720,ASNB Accounts,NA,Menara 37,Associate
+Aziz bin Anuar,5810,Corporate Affairs & Communication,NA,Menara 5,Senior Vice President
+Azizi b Abidin,5475,HR Operations & Adminstration,20505300,Menara 35,Pembantu Pejabat
+Azizul bin Hinnasir,9714,Business Solution Department,20505790,Menara 25,Associate - Business Solutions Dpt
+Azizul bin Karia,5117,Shariah Management,NA,Menara 38,Associate
+Azlan bin Rahmat,5883,HR Operations & Adminstration,20505300,Menara 35,Kerani Kanan
+Azlan binti Hassim,5665,Corporate Services,21619470,Menara 6,Senior Clerk
+Azlan Kamal bin Ibrahim Kamal,5211,Real Estate Investment Management,NA,Menara 19,Associate Manager
+Azlan Mohd Alias,6009,Branch Management & Supervision,088-218814,ASNB Kota Kinabalu,Kerani Kanan\Steno.
+Azlian Idayu Ghazali,5379,Sales & Channel Management,NA,Menara 25,Associate Manager
+Azlimah Nur Ali,5482,Unit Trust Operation & Record Admin,20505271,Menara 7,Senior Associate
+Azlin binti Jaafar,5223,Compliance Dept.,20505746,Menara 26,Senior Associate
+Azlina binti Ahmad,6082 - 55103155,Branch Management & Supervision,03-55137155,ASNB Shah Alam,NA
+Azlina binti Yahya,5425,Financial & Mgmt Audit,20505264,Menara 26,Senior Associate
+Azlina Muhamad,6007\6027,Branch Management & Supervision,09-6235422,ASNB Kuala Terengganu,Eksekutif I
+Azman Ahmad Suri,5686,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani Kanan-sijil
+Azman bin Bahari,5365,Real Estate Special Projects,20505221,Menara 2,Technician
+Azman bin Baharudin,5535,Domestic & International Properties,20505221,Menara 24,Associate
+Azman bin Nasaruddin,9677,Real Estate Special Projects,NA,Menara 24,Associate Manager
+Azman Jambo,6010,Branch Management & Supervision,089-210597,ASNB Sandakan,Kerani\Jrtknik Ren.
+Azman Mohd Isa,5467,Business Solution Department,20505790,Menara 25,Associate
+Azmi b Latip,20921553,Facilities Management & General Services,NA,PNB Damansara Setia2 Menara I&P2,Group Leader
+Azmi Mohd Nor,6006,Branch Management & Supervision,NA,ASNB Pasir Putih,Pengurus Cawangan
+Aznoor binti Kamaruddin,9650,Fixed Income,21613622,Menara 17,Senior Clerk
+Azreen Ruzaimi binti Hassan,5787,Sales & Channel Management,NA,Menara 25,Associate Manager
+Azreena Kamal Basha,5838,Communications,20505268,Menara 4,Associate Manager
+Azrieal bin Mohd Azlan,3086,Private Investment & Special Projects,NA,Menara 9,Senior Analyst
+Azrina binti Abd Rashid,5340,Unit Trust Strategy & Product Management Dpt. ASNB,21610082,Menara 25,Pengurus
+Azrina binti Sulaiman,5634,Public Equity,21619470,Menara 9,Senior Manager
+Azrul Ibrahim @ Zainuddin,5848,International,21611075,Menara 16,Senior Associate
+Azuhuri Mustaqim Mohd Rusli,3135,Core Application Systems,320505685,Menara 32,Senior Associate
+Azura binti Kairudin,5190,Business Process and Innovation,320759733,Menara 28,Associate Manager
+Azwa Syafiqah bt Ahmad,5330,Economics,20505223,Menara 15,Analyst
+Azwani Bt Mohamad Don,9604\9601,General Office Serv.,20505221,Menara 39,Receptionist
+Azyyati binti Mamat@Dahan,321660736,Facilities Management & General Services,NA,Bangunan UTM SPACE\ Theatrette,Senior Clerk
+Badli Izar bin Kamaruddin,3110,Human Capital Planning & Development,20505270,Menara 36,Executive
+Badlishah bin Halimi@Abdul Raz,5301,Asset Management,NA,PNB Japan,Pen. Naib Presiden
+Badrul Azmi Jamaluddin,5298,Unit Trust Operation & Record Admin,NA,Menara 7,Associate
+Badrul Hisham Abdullah,5428,Pelaburan Hartanah Nasional Berhad,NA,Menara 31,Manager
+Badrul Hisham Mohd Dahalan,5555,Facilities Management & General Services,03-20505828,Menara B1,Ketua Kumpulan
+Badrul Hizam Serahan,5208,Facilities Management & General Services (Eng),20505221,Menara B2,Juruteknik
+Badrunnahar b Anab,5444,Facilities Management & General Services (Eng),20505221,Menara UG,Chargeman
+Bahanizam bin Hassan,5624,HR Operations & Adminstration,20505300,Menara 35,Junior Technician
+Bahtiar bin Baharun,6018,Unit Trust Operation & Record Admin,67990969,Kota Seriemas,Pengurus
+Balan a\l Subramaniam,6101 \ 6102 \ 6103,Branch Management & Supervision,07-43317112,ASNB Batu Pahat,Eksekutif I
+Bangunan MAS,2164 1710,PNB,NA,NA,NA
+Bangunan TIMA,2694 2213,PNB,NA,NA,NA
+Banong Mangka,6015,Branch Management & Supervision,085-485423384,ASNB Tawau,Kerani\Jrtknik Ren.
+Bazid Othman,5577,Agent Management & Cust. Relations Dept. ASNB,20505220,Balai UG,Senior Manager
+Bilik Auditor,5138,Finance Department,NA,Menara 29,NA
+Bilik Tetamu CEO,5871,Office Of President & GCEO,NA,Balai 3,NA
+Board Room Kom.Koprat,5480,Corporate Affairs & Communication,NA,Menara 4,NA
+Borhanudin bin Hanafiah,5779,Financial & Mgmt Audit,20505264,Menara 26,Senior Manager
+CCM,03-26123888,PNB,NA,Menara 13-15,NA
+Chai Anak Abok,6014,Branch Management & Supervision,083-323233,ASNB Sri Aman,Eksekutif II
+Chandrakumar,5536,Facilities Management & General Services (Eng),20505221,Menara 24,Technician
+Che Ismail Che Nik,20921553,Facilities Management & General Services,20945715,PNB Damansara Setia2 Menara I&P2,Security Supervisor
+Che Lily Haji Ahmad,5357,Unit Trust,20505225,Menara 8,Pengurus
+Che Omar Che Abdullah,5154,Fixed Income,21613622,Menara 17,Senior Manager
+Che Salleh Che Yusoff,6005\ 09-5178340,Branch Management & Supervision,09-5136694,ASNB Kuantan,NA
+Che Siti Nor Aisyah btChe Musa,6006\6026,Branch Management & Supervision,09-7446663,ASNB Kota Baharu,Eksekutif I
+Cheng Jap Xen,6002  6022,Branch Management & Supervision,05-2555506,ASNB Ipoh,Eksekutif II
+Cik Natali Ng Sui Chu,6015,Branch Management & Supervision,089-776600,ASNB Tawau,NA
+Cik Nor Suhana Ghani,6015,Branch Management & Supervision,089-776600,ASNB Tawau,NA
+Cik Norhazlin @ Azlin Yusof,6015,Branch Management & Supervision,089-776600,ASNB Tawau,NA
+Cik Raynelda Jane Atin,6010,Branch Management & Supervision,089-210597,ASNB Sandakan,NA
+CIMB MENARA PNB,21617987,PNB,NA,Menara 1,NA
+Cyrene anak Tedy,6014,Branch Management & Supervision,083-323233,ASNB Sri Aman,Juruwang
+Daisy Wong Sukh Thze,6010\6030,Branch Management & Supervision,089-210597,ASNB Sandakan,Eksekutif I
+Dalati binti Mohamed Nawi,20340832,Amanah Mutual Berhad,03-21625958,Menara 34,Associate
+Dalia binti Mohd Yusof,5218,Human Capital Planning & Development,20505270,Menara 36,Executive
+Dalila Atiqah Binti Hashim,5471,Asset Management,21629335,Menara 17 Asset Mgmt,Associate Kanan
+Dana Ehsan,5413,Company Secretary,21633477,Menara 9,NA
+Dannial Yusof Iman Mohd Yusoff,3047,Asset Management,NA,PNB UK,Senior Associate
+Darby Park Singapore Suite,267373511,PNB,NA,NA,NA
+Darus bin Shafie,5529,Business Solution Department,20505790,Menara 25, Senior Associate
+Daud Seron,6012,Branch Management & Supervision,085-423384,ASNB Miri,Kerani Kanan\Steno.
+Dayang Safrizzan Noh,6010\6030,Branch Management & Supervision,089-210597,ASNB Sandakan,Juruwang
+Devaki A\P Somasundaran,5842,Sales & Channel Management,NA,Menara 25,Senior Associate
+Dian Rebin,6009\6029,Branch Management & Supervision,088-218814,ASNB Kota Kinabalu,Kerani\Jrtknik Ren.
+Dina Deni Anti bt Anawar,6015,Branch Management & Supervision,89776600,ASNB Tawau,Associate
+Dina Yusnida Amjat,5332,Agent Management & Cust. Relations Dept. ASNB,20505220,Balai UG,Associate Manager
+Dinah Fadhilah Nasir,5540,Investment Analysis,20505224,Menara 18,Associate Manager
+Dr Ishan bin Ismail,9777,PNB Value Homes,NA,Menara 3,Vice President
+Dr. Yasmine Merican,5362,Economics,20505233,Menara 15,Senior Manager
+Dzulfadzli bin Madzkor,20340804,Amanah Mutual Berhad,03-21633212\21632535,Menara 34,Senior Clerk
+E-Lock,3143,Management Information System,NA,Menara 32,NA
+E-Lock,3029,Management Information System,NA,Menara 10,NA
+Edree bin Ahmad,5873,Public Equity,NA,Menara 9,Manager
+Elaisya Md Yusof,5198,Domestic & International Properties,20505221,Menara 24,Manager
+Elia Halena binti Abdul Halil,5744,Risk Mngmt.,320759733,Menara 28,Associate Manager
+Elisya Syirin Baharuddin,5546,Risk Mngmt.,320759733,Menara 28,Associate Kanan
+Eliyra Ellaurell Elson,6015,Branch Management & Supervision,089-776600,ASNB Tawau,Eksekutif II
+Ellie Natasha bt Mohd Ghazali,6086\6089,Branch Management & Supervision,88904890,ASNB Putrajaya,Juruwang
+Emelia Wati binti  Aripin,5227,Human Capital Planning & Development,NA,Menara 36,Associate Manager
+Emergency Response Team,5444,Facilities Management & General Services (Eng),NA,Menara UG,NA
+Emi Suraya Yahya,6099 \ 6098,Branch Management & Supervision,05-6215150,ASNB Teluk Intan,Eksekutif I
+"Emilia Mohd Talhah,5399,Procurement,20505265,""Menara 30",,,,,
+,Senior Associate,NA,NA,NA,NA
+Emilia Mohd Yatim,6081\6082,Branch Management & Supervision,NA,ASNB Shah Alam,Senior Associate
+Enawati binti Mat Yacob,5893,Risk Mngmt.,NA,Menara 28,Senior Associate
+Enun Nordin,5364,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Kerani Kanan\Steno.
+Ervanian bt Abdul Basir,6131,Branch Management & Supervision,NA,ASNB Lahad Datu,Assosiate
+Eshah Budin Shah Abdullah,6101,Branch Management & Supervision,NA,ASNB Batu Pahat,Pengurus Cawangan
+Esyateen Rodhiyah Yusof,320241439,Branch Management & Supervision,NA,Kaunter Hibah,Associate
+Esyatur Radziah Zainal,5718,IT Business Analyst,,Menara 33,Manager
+Ezmir Adha bin Abdul Malek,5541,Real Estate Special Projects,20505221,Menara 24,Associate Manager
+Ezzudean b Mohd Salleh,20340820,Amanah Mutual Berhad,03-21631232\21633848,Menara 34,Associate Manager
+Fadilah Hanim Zainal Abidin,6001 \ 6021,Branch Management & Supervision,43994404,ASNB Butterworth,Eksekutif I
+Fadllyhar bin Roslie,3103,PNB Research Institute,20505233,Menara 5,Associate Manager
+Fadzihan Abbas Mohamed Ramlee,5351,Corporate Planning & Strategy,20505772,Menara 9,Assistant Vice President
+Fadzilah binti Arham,9748,Finance Department,20505880,Menara 29,Associate
+Fadzlin Bt Kamarudin,5118,HR Operations & Adminstration,20505300,Menara 35,Associate
+Fairuz Muhamad Zuki,6000 \ 6020,Branch Management & Supervision,04-97314140,ASNB Alor Setar Kedah,Kerani\Jrtknik Ren.
+Fairuz Suzana Hj Kamaruddin,5294,Unit Trust Strategy & Product Management Dpt. ASNB,21610082,Menara 25,Vice President
+Faisal bin Shaffee,20940173,Real Estate Special Projects,NA,Wisma TUNE,Manager
+Faiza Ibrahim,5544,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani
+Faizul Hazri bin Che Hashim,5468,Technology Support Services,NA,Menara 10,Associate Manager
+Faizul Syafiq bin Ahmad Hawari,5439,Financial & Mgmt Audit,20505264,Menara 26,Associate
+Fan Siew Mey,6002\6022,Branch Management & Supervision,05-2555506,ASNB Ipoh,Eks. Kanan
+Farah Hayati binti Muhammad,3202,Core Application Systems,NA,Menara 32,Associate
+Farahana bt Zaini,5793,Finance Department,NA,Menara 29,Associate
+Farahayu bt Mohd Nazri,0320241480,Finance Department,,Menara 29,Associate
+Farahiyah Che Ros,3072,IT Service Management,20505685,Menara 33,Associate
+Farhah Hidayu Mohd Abd Fatah,6001\6021,Branch Management & Supervision,04-3994378,ASNB Butterworth,Juruwang
+Farhana binti Md Said,5834,Financial & Mgmt Audit,20505264,Menara 26,Senior Associate
+Farhana binti Roslan,5229,Public Equity,NA,Menara 9,Associate Manager
+Farhani binti Sanat,5890,Fund Management,NA,Menara 16,Senior Manager
+Faridah binti  A. Hasan,3150,Compliance Dept.,NA,Menara 26,Senior Associate
+Faridah Zubir,6003,Branch Management & Supervision,06-763384,ASNB Seremban,Kerani\Jrtknik Ren.
+Faris Ashar b Ghari,20930976,Facilities Management & General Services (Eng),NA,Menara I & P2,Technician
+Fariza Abu,5417,Finance Department,20505880,Menara 29,Executive-Payrol
+Farrah Hieda W.R. Jamarulan,6099 \ 6098,Branch Management & Supervision,05-6215150,ASNB Teluk Intan,Eksektutif II
+Faten Nazahiah Mohamad Noor,6000\6020,Branch Management & Supervision,04-7314140,ASNB Alor Setar,Eksekutif II
+Fatimah binti Ahmad,5552,Unit Trust Strategy & Product Management Dpt. ASNB,21610082,Menara 25,Kerani Kanan
+Fatimah binti Jusoh,5583,ASNB Accounts,20505273,Menara 37,Associate
+Fatimah Zahrah  Badrul Hisham,5726,Finance Department,20505880,Menara 29,Eksekutif Pelatih
+Fatin bt Dzulkifli,5892,Investment Analysis,20505224,Menara 18,Senior Analyst
+Fauziah binti Ismail,5813,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Associate Manager
+Fauzillah binti  Zaidi,5684,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Senior Associate
+Fazilah Mohamed Sikandar,6001 \ 6021,Branch Management & Supervision,43994404,ASNB Butterworth,Kerani Kanan
+Fazlinda Ahmad,6082,Branch Management & Supervision,55137155,ASNB Shah Alam,Eksekutif I
+Felix b Masadu,6010\6030,Branch Management & Supervision,089-210597,ASNB Sandakan,Eksekutif II
+Fiona Amelda Azrin Tan,5254,ASNB Accounts,NA,Menara 37,Associate
+Firman Edy Mohamed,5748,Unit Trust Operation & Record Admin,20505271,Menara 7,Senior Clerk
+Furukawa Cabel,55191110,PNB,NA,NA,NA
+Ghazali Lebai Idris,5130,Branch Management & Supervision,03-21618852,Kaunter Utama,Senior Clerk
+Ghazali Mohd Said,5401,Financial & Mgmt Audit,20505264,Menara 26,Senior Associate
+GLENEAGLES,42571300,PNB,NA,NA,NA
+Go Woei Chyuan,6001 \ 6021,Branch Management & Supervision,04-3994378,ASNB Butterworth,Eksekutif II
+Gorib Mohd Som,6007\6027,Branch Management & Supervision,09-6235422,ASNB Kuala Terengganu,NA
+Habidin bin Che Sat,5644,Branch Management & Supervision,21630219,Menara B2,Pemandu
+Hablon Ismail,5555,Facilities Management & General Services,20505221,Menara B1,Ketua Kumpulan
+Habsah Khamis@Mohamed Ghazali,5456,Fund Management,21629335,Menara 16,Kerani Kanan
+Hadiah Salleh,6011,Branch Management & Supervision,082-250313,ASNB Kuching,Kerani Kanan\Steno.
+Hadidah Hj Abd Rahman,5797,ASNB Accounts,20505273,Menara 37,Kerani Kanan
+Hafidah binti Wakimen,5548,Branch Management & Supervision,20505263,Menara 8,Associate
+Hafidz Atrash Kosai Mohd Zihim,5765,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Ketua Pegawai Eksekutif
+Hafisah Abd Aziz,5463,Business Solution Department,20505790,Menara 25,Associate
+Hafiz Imran bin Ahmad Rashidi,5616,Public Equity,NA,Menara 9,Senior Manager
+Hafizi Zakaria,26942213,Facilities Management & General Services (Eng),26913791, Menara TUN,Eks. Kanan
+Hailati Djorimi,6008,Branch Management & Supervision,07-2232533,ASNB Johor Bahru,Kerani Kanan\Steno.
+Hailena bt Ismail,6008\6028,Branch Management & Supervision,07-2232533,ASNB Johor Baharu,Eksekutif I
+Hairiza binti Abdul Razak,9698,Core Application Systems,20505685,Menara 32,Associate Manager
+Hairolnizam Ideris,5421,PNB Merdeka Ventures Sdn Bhd,20505820,Menara 19,Personal Driver
+Haiza binti Haron,5331,Compliance Dept.,NA,Menara 26,Manager
+Haizumawati binti Jamil,5457,Investment Analysis,NA,Menara 18,Analyst
+Hamdan Hamzah,26946972,Facilities Management & General Services,26913791,Menara Tun Ismail Mohd Ali,Ketua Kumpulan
+Hamdi Othman,5318,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Eks. Kanan
+Hamidah Imbi,5436,PNB Research Institute,NA,Menara 3,Kerani
+Hamidah Md Ali,5667,Unit Trust Operation & Record Admin,20505225,Menara 8,Kerani Kanan
+Hamidatol Bahariah Baharuddin,5266,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani Kanan
+Hamiza binti Arof,5780,ASNB Accounts,20505273,Menara 37,Senior Accounts Clerk
+Hamsiah Mat Tuah,5161,Asset Management,NA,Menara 17,Eksekutif
+Hamzah bin Mohamad,5183,HR Operations & Adminstration,320505300,Menara 35,Pengurus
+Haneem Abdullah,6088,Branch Management & Supervision,88904890,ASNB Putrajaya,Eks. II
+Haniff bin  Ab. Hamid,20340851,Amanah Mutual Berhad,21625958,Tkt 34,Pengurus
+Hanizan binti Hood,5159,Fund Management,NA,Menara 16,Vice President-Fund Management
+Hardi bin Mat Daud,5343,Financial & Mgmt Audit,20505264,Menara 26,Associate Manager
+Hariah Mang,6011\6031,Branch Management & Supervision,082-250313,ASNB Kuching,Eks. Kanan
+Harman bin Hamid,5774,IT Architecture And Strategy,03 20505685,Menara 32,Senior Manager
+Hartini binti Zainal Abidin,5722,Legal Dept.,20505750,Menara 19,Vice President
+Hasan Basri bin Mohd Tahir,5313,PNB Research Institute,20505228,Menara 3,Senior Clerk (Library)
+Hasanah Mohd Tahir,374903958,Hospitality(PMSSB),374903951,Lot 5.1 Tkt.5 PNB Perdana Hotel,Eksekutif
+Hasbie Abang,6011\6031,Branch Management & Supervision,082-250313,ASNB Kuching,Kerani\Jrtknik Ren.
+Hasbullah bin Tahir,5154,Fixed Income,21613622,Menara 17,Senior Associate
+Hasbullah Ismail,5555,Facilities Management & General Services,20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Hashim b Saad,5555,Facilities Management & General Services,20505221,Menara B1,Pengawal Keselamatan
+Hashim bin Taha,5109,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Senior Clerk
+Hasliezam Sulaiman,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Haslinda binti Mohamad,5316,PNB Research Institute,20505228,Menara 3,Manager (Library Unit)
+Hasnariah binti Hussain,5312,PNB Research Institute,20505228,Menara 3,Associate
+Hasni Yusoff,374903960,Hospitality(PMSSB),NA,PNB Perdana Hotel,Ketua Pegawai Operasi
+Haswandi Ahmad Kamal,5403,Company Secretary,21633477,Menara 9,Kerani
+Haswari Sukirman,6015,Branch Management & Supervision,089-776600,ASNB Tawau,Eksekutif I
+Hawsari Sukirman,6015,Branch Management & Supervision,089-776600,ASNB Tawau,Eksekutif 1
+Hayati Yaacob,5113,Branch Management & Supervision,21618852,Balai 1,Ketua Juruwang
+Hazlina Mohd Rosli,6008\6028,Branch Management & Supervision,07-2232533,ASNB Johor Bahru,Kerani\Jrtknik Ren.
+Heitech,193767720,Heitech Padu,NA,Menara,NA
+Heitech,5176,Heitech Padu,NA,MENARA 21,NA
+HEITECH PADU,03-27163430,PNB,NA,MENARA 21 DAN 27,NA
+Heitech Padu,27163414,Heitech Padu,NA,Balai 2,NA
+Heitech Padu,5200,Heitech Padu,NA,Data Center tkt 2 Balai,NA
+Heitech Padu,5256,Heitech Padu,NA,Menara 27,NA
+Heitech Padu,5269,Heitech Padu,NA,Menara 27,NA
+Heitech Padu,5494,Heitech Padu,NA,Menara 27,NA
+HEITECH PADU HELP DESK,6060,PNB,NA,MENARA 21,NA
+Helmi bin Ali,5299,Communications,20505268,Menara 4,Associate Manager
+Helmi bin Wahit,20940173,Facilities Management & General Services (Eng),NA,PNB Darby Park,Kerani \ Juruteknik Rendah
+Helmy b Abdul Ghani,5444,Facilities Management & General Services (Eng),NA,Bilik BAS,Juruteknik Rendah
+Heply bin Kisil,6009\6029,Branch Management & Supervision,088-218814,ASNB Kota Kinabalu,Juruwang
+Heronie Joyd Welson,6009\6029,Branch Management & Supervision,088-218814,ASNB Kota Kinabalu,Eks. II
+Hertati binti Idrus,1,HR Operations & Adminstration,NA,Menara 35,Kaunselor
+Heryani Herman,6008\6028,Branch Management & Supervision,07-2232533,ASNB Johor Bahru,Eksekutif I
+HezmanYusri b. Othman,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Hilwa Layaly bt Ahmad,5650,Unit Trust Operation & Record Admin,20505271,Menara 8,Senior Associate
+Hizam Shah bin Azaime,5142,Private Investment & Special Projects,NA,Menara 23,Manager
+Huda Che Mohd Noh,5693,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Eks. Kanan
+Huseyn Ali Dzaharudin,5434,Investment Analysis,20505224,Menara 18,Associate Manager
+Husiniah Mohamad,5206,Investment Processing,21648604,Menara 23,Kerani Kanan\Steno.
+Hussin b Mohamed Nor,5427,HR Operations & Adminstration,20505300,Menara 35,Senior Clerk
+Ibrahim b Mohd Ali,6018,Facilities Management & General Services,06-7990969,Kota Seriemas,Pengawal Keselamatan
+Ibrahim bin Ahmad,5589,Finance Department,20505880,Menara 29,Kerani Akaun Kanan
+Ida Melissa Mohamad Anuar,5680,PNB Research Institute,20505233,Menara 5,Senior Analyst
+Ida Suzila bt Jumali,03-20340827,Amanah Mutual Berhad,21625958,Menara 34,Associate Manager
+Idris b Abdul Razab,5555,Facilities Management & General Services,20505221,Menara B1,Pengawal Keselamatan (Kontak)
+Idris b Hanafiah,5424,HR Operations & Adminstration,20505300,Menara 35,Kerani
+Idris bin Kechot,5153,Asset Management,21610082,Menara 17,Deputy President&Group C.Operating Officer
+Idris bin Yaacob,5296,Investment Analysis,NA,Menara 18,Naib Presiden
+Idzham Mohd Hashim,NA,Human Capital Planning & Development,20505270,Menara 36,Eksekutif II
+Iffah Hazrina binti Zamri,5826,Public Equity,NA,Menara 9,Senior Analyst
+Ikhwan Safuan Zainul Amri,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+IKIM,62046200,PNB,03-62014189,NA,NA
+Ilham,66626800,PNB,06-6625646,NA,NA
+Intan Kamalea Husin,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Intan Syuhada Hisamuddin,5895,Investment Analysis,20505224,Menara 18,Manager
+Ir. Ahmad Azizuddin Dato Azizu,320935214,Domestic & International Properties,320945715,PNB Damansara,Pengurus Kanan
+Irdawati binti Deris,5542,Financial & Mgmt Audit,20505264,Menara 26,Associate Manager
+Irfan Satria Ismail,3044,IT Architecture And Strategy,NA,Menara 32,Senior Associate
+Iskandar Dzulkarnain Ahmad Tri,3109,Human Capital Planning & Development,20505270,Menara 36,Senior Associate
+Iskandar Rashdan Mohd Rusli,5275,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Associate
+Islamic 2,3053,Shariah Management,20505678,Menara 38,NA
+ISLAND & PENISULAR (I&P),42597600,PNB,NA,NA,NA
+Ismail Abdul,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Ismail bin Ngah Rabu,5209,Equity Market Operations,21629335,Menara 17,Assistant Vice President
+Iswan Rizal Ishak,5335,Real Estate Special Projects,20505772,Menara 24,Manager
+Ithnin bin Mohamad,5747,Hospitality(PMSSB),Secondment PMSSB,PNB Perdana,Assistant Vice President
+Izatul Nadia binti Ahmad Ramli,5219,PNB Merdeka Ventures Sdn Bhd,20505221,Site office 118,Associate
+Izatul Shima Ahmad Musbaha,5403,Company Secretary,21633477,Menara 9,Kerani Kanan\Steno.
+Izham Ismail,6084 - 55104133,Branch Management & Supervision,03-55137155,ASNB Shah Alam,Kerani\Jrtknik Ren.
+Izmir bin Mohammad,5673,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Senior Manager
+Izuan Asrul b Abd Rahman,6008\6028,Branch Management & Supervision,07-2232533,ASNB Johor Baharu,Kerani
+Izzat Hanafi bin Idris,3089,Fund Management,NA,Menara 16,Senior Associate
+Izzat Syazwan b Md Yusoff,9634,Investment Analysis,NA,Menara 18,Analyst
+Jab. Pegurusan Rekod ASNB,6018,Branch Management & Supervision,NA,Halaman Korporat PNB Persiaran Seriemas 3,Kota Seriemas Peti Surat 11 71807 Nilai N9
+Jagee Singh,20940173,Facilities Management & General Services (Eng),20945715,PNB Damansara,Eks. III
+Jalilah bt Jamaludin,3080,Business Process and Innovation,03 20759733,Menara 28,Associate
+Jalimah Muhamad,5699,Financial & Mgmt Audit,20505264,Menara 26,Stenographer
+Jalna Badar,6012,Branch Management & Supervision,085-423384,ASNB Miri,Kerani\Jrtknik Ren.
+Jamaluddin Mohd Yasin,5524,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani Kanan
+Jami'an bin Othman,5475,HR Operations & Adminstration,NA,Menara 35,Pemandu
+Jamilah Abdul Manap,5523,Unit Trust Operation & Record Admin,20505271,Menara 8,Kerani Kanan
+Janeivanaly bt Jenidie,5578,Sales & Channel Management,NA,Menara 25,Associate
+Janiza bt Jaafar,3116,ASNB Accounts,20505273,Menara 37,Associate
+Jannatul Ainur bt Jasni,NA,Branch Management & Supervision,47314140,ASNB Alor Setar,Juruwang
+Jasspero  ak Timboo,6012,Branch Management & Supervision,085-423384,ASNB Miri,Eks. I
+Jefri b Ahmad,5666,Facilities Management & General Services (Eng),20505221,Menara UG,Juruteknik Rendah
+Jefri Jamaluddin,5326,Investment Processing,21648604,Menara 23,Pem. Pejabat\Operator Telefon
+Jelani Mohd Sarip,6004\6024,Branch Management & Supervision,06-2839940,ASNB Melaka,Kerani Kanan\Steno.
+Joanaidah Omar,5614,Unit Trust Operation & Record Admin,20505271,Menara 8,Senior Clerk
+Johanis Ismail,5618,Agent Management & Cust. Relations Dept. ASNB,20505220,Balai UG,Senior Associate
+Jonisa Alidin,6131\6132,Branch Management & Supervision,89863675,ASNB Lahad Datu,Executive
+Joyrena Mamud,6012,Branch Management & Supervision,085-423384,ASNB Miri,Kerani\Jrtknik Ren.
+Juhaidah Sulaiman,5727,Finance Department,20505880,Menara 29,Pengurus
+Juhanizah binti Juman,6131\6132,Branch Management & Supervision,089 863675,ASNB Lahad Datu,Assosiate Kanan
+Juman binti Masuri,9790,Unit Trust Strategy & Product Management Dpt. ASNB,NA,Menara 25,Associate Kanan
+Junaida binti Omar,9612,Unit Trust Operation & Record Admin,03 20505271,Menara 7,Senior Associate
+Junaidah Anak Kasih,6014,Branch Management & Supervision,083-323233,ASNB Sri Aman,Juruwang
+Junainah bt Abdul Karim,5823,Company Secretary,21633477,Menara 9,Eksekutif II
+Junawati Ab Hamid,3081,Finance Department,20505880,Menara 29,Executive
+Jurianah Abdul Hamid,6009,Branch Management & Supervision,088-218814,ASNB Kota Kinabalu,Juruwang
+Kaharuddin b Mohd Djudo,20340826,Sales & Channel Management,NA,Menara 25,Associate Kanan
+Kaharuddin b. Ghani,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Kamal bin Saaban,5124,Agent Management & Cust. Relations Dept. ASNB,20505220,UG Balai,Associate Manager
+Kamaludin bin Yahya,9665,Technology Support Services,20505221,Menara 10,Junior Technician
+Kamariah binti Hassan,5565,HR Operations & Adminstration,20505300,Menara 35,Assistant Vice President
+Kamarul Adlin Busra,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Kamarul Baharin bin Mohd Daud,5144,Internal Assurance Division,20505271,Menara 26,Senior Vice President
+Kamarulzaman b. Abd. Jamal,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Kamaruzaman Parlan,6003,Branch Management & Supervision,06-733384,ASNB Seremban,Ketua Juruwang
+Kamaruzzaman Othman,5184,Investment Processing,21648604,Menara 23,Penolong Pengurus
+Kamsiah Jantan,5186,Investment Processing,21648604,Menara 23,Kerani Kanan\Steno.
+Kaneskumar A\L Supramaniam,9623,Communications,20505268,Menara 4,Associate
+Kartini Abdul Manaf,5677,Strategic Investments,20505772,Menara 9,Timb. Presiden Korp.& Pemb. Modal Insan
+Kasmiah bt Redde,6010\6030,Branch Management & Supervision,089-210597,ASNB Sandakan,Ketua Pejabat
+Kaunter HR,3115,HR Operations & Adminstration,NA,Menara 35,NA
+Kaunter HRPD,NA,Human Capital Planning & Development,NA,Menara 36,NA
+Kaunter IFM,3002,International,NA,Menara 5,NA
+Kaunter Jbtn Kom. Koprat,3001,Corporate Affairs & Communication,NA,Menara 4,NA
+Kaunter Library,5350,PNB Research Institute,20505228,Menara 3,NA
+Kaunter Perkhidmatan P'ggan 6,5354,Marketing & Financial Literacy Department ASNB,NA,Balai UG,Eksekutif I
+Kaunter Perkhidmatan P'ggan 7,5358,Marketing & Financial Literacy Department ASNB,NA,Balai UG,NA
+Kaunter Perkhidmatan P'ggan 8,5460,Marketing & Financial Literacy Department ASNB,NA,Balai UG,Eksekutif I
+Kaunter Perkhidmatan Pelanggan,5564,Marketing & Financial Literacy Department ASNB,NA,Balai UG,NA
+Kaunter Pertanyaan,5737,Marketing & Financial Literacy Department ASNB,NA,Kaunter Utama,NA
+Kennedy Michael,6009\6029,Branch Management & Supervision,088-218814,ASNB Kota Kinabalu,NA
+Khadijah binti Arshad,5888,Finance Department,20505880,Menara 29,Executive
+Khaimi Anuar bin Ismail,9689,PNB Merdeka Ventures Sdn Bhd,NA,Site office 118,Pengurus Kanan-0392127006
+Khairil Nizam Md Daron,5818,Business Solution Department,20505790,Menara 25-Business Solution,Senior Associate
+Khairol Anwar Ibrahim,6004,Branch Management & Supervision,06-2839940,ASNB Melaka,Kerani\Jrtknik Ren.
+Khairuddin bin Haji Hamdan,5349,PNB Research Institute,20505228,Menara 3,Clerk (Library)
+Khairul Amilin Abdul Hamid,5154,Fixed Income,21613622,Menara 17 Fixed Income Dpt,Associate Manager
+Khairul Anwar b Mohamad Khairi,5461,Risk Mngmt.,320759733,Menara 28,Senior Associate
+Khairul Azam Adham,3196,Investment Processing,21648604,Menara 23,Kerani\Jrtknik Ren.
+Khairul Fiezri b Md Yassin,6012,Branch Management & Supervision,085-423384,ASNB Miri,Ekesekutif II
+Khairul Hadi b M Rahim,9787,Risk Mngmt.,320759733,Menara 28,Assistant Vice President
+Khairul Nisak Abdul Rahman,-,Branch Management & Supervision,21618852,Balai 1,Juruwang
+Khairul Razak bin Moonier,5337,Human Capital Planning & Development,20505270,Menara 36,Senior Manager
+Khairul Zaharin Shamsuddin,5884,Procurement,,Menara 30,Associate Manager
+Khairun Nisaa' bt Abdul Latif,5735,Unit Trust Strategy & Product Management Dpt. ASNB,21610082,Menara 25,Associate
+Khaizawaty Md Zainal,5403,Company Secretary,21633477,Menara 9,Kerani\Jrtknik Ren.
+Khaled bin Abd Marlik Hakim,3070,Compliance Dept.,NA,Menara 26,Associate Manager
+Khalid Ismail,5236,HR Operations & Adminstration,20505300,Menara 35,Eks. III
+Khalid Mohammed Noor,5628,Public Equity,21619470,Menara 6,Eksekutif Kanan
+Khalijah Abdul Rahman,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Khalijah binti Sani,5811,Economics,20505233,Menara 15,Kerani Kanan
+Khatijah Thallaseri P Moidutty,5112,Branch Management & Supervision,NA,Menara 8,Executive
+Khuzaimah binti Basran@Toha,5642,Compliance Dept.,NA,Menara 26,Assistant Vice President
+Lailatul Akmar binti Hamdan,9655,Communications,20505268,Menara 4,Associate
+Latipah b.ti Ebok,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Laurence Francis Onjuman,6009,Branch Management & Supervision,088-218814,ASNB Kota Kinabalu,Ketua
+Law Siew Ping,6012,Branch Management & Supervision,085-423384,ASNB Miri,Eksekutif I
+Lili Afriola Muchlis,9675,Compliance Dept.,NA,Menara 26,Senior Manager
+Lim Cheng Ean,5390,Investment Analysis,20505224,Menara 18,Naib Presiden
+Liyana bt Abdul Muthalib,5168,Business Solution Department,20505790,Menara 25,Associate
+Liyana Ibrahim,3033,Public Equity,NA,Menara 6,Senior Analyst
+Liyana Nadirah Abd. Rahman,3027,Fund Management,NA,Menara 16,Manager
+Liza Maria Abdul Karim,-,PNB Merdeka Ventures Sdn Bhd,NA,Menara 19,Pengurus Pemasaran & Penjenamaan
+Lizah binti Ahmad,5795,Business Solution Department,20505790,Menara 25,Senior Associate
+Loh Pei Luan,6072\6073,Branch Management & Supervision,04-6406520,ASNB Bayan Lepas,Eksekutif II
+Loha Dominus @ Salome,6071,Education,06-7995099,Kolej Ilmu,Warden
+Luncha Anak Malayu,6014,Branch Management & Supervision,083-323233,ASNB Sri Aman,Kerani\Juruteknik Rendah
+Madiha Suhana Mohamed,3113,Investment Analysis,20505224,Menara 18,Assistant Vice President
+Mafame Ismail,5664,General Office Serv.,20505221,Menara 24,Eks. II
+Magsara,03-91726811,PNB,NA,NA,NA
+Mahmod Mat Jusoh,6006,Branch Management & Supervision,09-7446663,ASNB Kota Bharu,Kerani Kanan\Steno.
+Mahmud b. Mt. Sharif,20921553,Facilities Management & General Services,NA,PNB Damansara Setia2 Menara I&P2,Group Leader
+Maizatul Aishah binti Ajid,9798,Branch Management & Supervision,NA,Kaunter,Associate
+Maizatul Fazura bt Ghani,6018,Branch Management & Supervision,06-7990969,ASNB KOTA SERIMAS,Eksekutif II
+Majidah binti Maruan,3021,PNB Research Institute,20505233,Menara 5,Analyst
+Malina binti Ab Malek,9750,Business Application Systems,NA,Menara 33,Associate
+Malina Mohamed,6013,Branch Management & Supervision,084-322497,ASNB Sibu,Juruwang
+Mansor bin Bakar,320940173,Real Estate Special Projects,NA,PNB Damansara (Wisma TUNE),Supervisor
+Mardiana Ahmad Tarmizi,5352,Agent Management & Cust. Relations Dept. ASNB,20505220,Balai UG,Senior Clerk
+Mardziah Mohd Hanafiah,5334,Agent Management & Cust. Relations Dept. ASNB,320505220,UG Balai,Kerani Kanan
+Mariatulkiptiah Md. Zinuardin,5517,Finance Department,20505880,Menara 29,Executive
+Mariawati binti Ali,5170,International,21611075,Menara 5,Senior Clerk
+Marina binti Ramli,5739,Communications,20505268,Menara 4,Associate
+Mark McVernon Young,6014,Branch Management & Supervision,083-323233,ASNB Sri Aman,Eks. II
+Markus Apoi,6012,Branch Management & Supervision,085-423384,ASNB Miri,Eksekutif I
+Marsilah binti Hasan,5167,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani Kanan
+Marwati Nordin,6015,Branch Management & Supervision,089-776600,ASNB Tawau,Ketua Pejabat
+Mas Afiza Shahida binti Mohama,3121,Sales & Channel Management,NA,Menara 25,Associate Manager
+Mas Ayu binti Mohamad Dahlan,5195,Compliance Dept.,NA,Menara 26,Associate Manager
+Mas Faizal Mas Rosli,6011,Branch Management & Supervision,082-250313,ASNB Kuching,Kerani\Jrtknik Ren.
+Masanom Mohd Noh,5784,HR Operations & Adminstration,20505300,Menara 35,Senior Manager
+Masatiqa Bt Saminin,NA,Branch Management & Supervision,087-336619,ASNB Keningau,Eksekutif II
+Mashella binti Sam,9641,Human Capital Planning & Development,20505270,Menara 36,Associate Kanan
+Mashita Services,5217,Facilities Management & General Services,20505221,Basement 2,Supervisor (Wati)
+Masthura Che Ahmad Bahrudin,6003\6023,Branch Management & Supervision,06-7633384,ASNB Seremban,Eksekutif II
+Mastini Maseridi,6011,Branch Management & Supervision,082-250313,ASNB Kuching,Kerani\Jrtknik Ren.
+Mat Zahir bin Zakaria,3076,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Senior Clerk
+MAYBANK AMP. PARK,21612106,PNB,NA,NA,NA
+Mazelan b Mahmood,20930976,Facilities Management & General Services (Eng),20505221,Menara I & P2,Technician
+Maziah Mohamad Isa,5561,Facilities Management & General Services,NA,Menara 24,Executive
+Mazlan Amer,3106,Branch Management & Supervision,21618852,Balai 1,Juruwang Kanan
+Mazlina Ahmad,5786,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani Kanan
+Mazlina binti Sulaiman,5305,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Keranai Kanan-Secretary
+Mazlinita binti Ramly,5280,IT Architecture And Strategy,NA,Menara 32,Associate Manager
+Mazni binti Ahmad,5106,Sales & Channel Management,NA,Menara 25,Executive
+Mazuin binti Mazlan,9737,ASNB Accounts,20505273,Menara 37,Associate Manager
+Mazuki bin Abdullah@Muhammad,5768,Real Estate Investment Management,NA,Menara 19,Vice President
+Mazura Mashor @ Mansor,5824,ASNB Accounts,20505273,Menara 37,Associate Manager
+Md Johari bin Halus,NA,Facilities Management & General Services (Eng),NA,Stadium Merdeka,Penyelia Bangunan
+Md Ramli Othman,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Md Sani bin Julkapli@Dzulkifli,5555,Facilities Management & General Services,NA,B1,Pengawal Keselamatan
+Megat Syahir Megat Ahmad Azizu,5839,Fund Management,21629335,Menara 16,Senior Manager
+Meilin Anak John Sitin,6011\6031,Branch Management & Supervision,NA,ASNB Kuching,Senior Associate
+Mejar (B) Mohd Jamaludin b. A.,5743,Facilities Management & General Services,03-20505221,Menara 24,Pen. Pengurus
+Melati Afzan Hani Muhamad Hari,6034,Branch Management & Supervision,04-9760800,ASNB Kangar,Eks. III
+Menara  I & P 2,20930976,PNB,NA,NA,NA
+MENARA TUN ISMAIL,26942213,PNB,NA,NA,NA
+Meor Amirudin Fikri Meor Adam,5757,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Senior Manager
+MIDF,21738888,PNB,NA,NA,NA
+Mimi Zaida Mohd Jun,5163,Investment Analysis,20505224,Menara 18,Assistant Vice President
+Minah binti Mudin,6131\6132,Branch Management & Supervision,890863675,ASNB Lahad Datu,Executive
+Mior Adlizul Jazmi Mior Anuar,5729,Communications,20505268,Menara 4,Associate
+Mior Danial Zaim,5158,Investment Analysis,NA,Menara 18,Senior Analyst
+Mior Ibrahim bin Norddin,5527,Business Solution Department,20505790,Menara 25,Kerani Kanan
+Mior Luqman b Mior Sallehuddin,3032,Public Equity,NA,Menara 9,Analyst
+Misleha binti Juki,5702,Corporate Services,21619470,Menara 6,Senior Clerk
+Mohamad  Ferdaus b Abdul Rahim,5811,Research Division,NA,Menara 5,Pemandu Peribadi
+Mohamad Afeez bin Abdul Aziz,9626,Public Equity,NA,Menara 9,Analyst
+Mohamad Akmal bin Beti,3154,Domestic & International Properties,NA,Menara 24,Senior Associate
+Mohamad Amin bin Zakaria,5149,Public Equity,NA,Menara 9,Analyst
+Mohamad Asman Ahmad,6011\6031,Branch Management & Supervision,082-250313,ASNB Kuching,Pengurus II
+Mohamad b Abdullah,20930976,Facilities Management & General Services (Eng),NA,Menara I & P2,Technician
+Mohamad Effandy b Mat Saat,5424,HR Operations & Adminstration,03-20505300,Menara 35,Junior Printing Clerk
+Mohamad Fakhruddin Abdul Rahma,-,Branch Management & Supervision,NA,ASNB Limbang,Pengurus Cawangan
+Mohamad Hafiz b Mohamed Ismail,5156\5157,Equity Market Operations,NA,Menara 17,Associate
+Mohamad Idros bin Mosin,5676,Public Equity,20505772,Menara 9,Naib Presiden
+Mohamad Ishak Hamidun,9686,PNB Research Institute,NA,Menara 5,Pen. Naib Presiden
+Mohamad Nadzari Abd Rahman,6035,Branch Management & Supervision,04-9760800,ASNB Kangar,Kerani\Jrtknik Ren.
+Mohamad Nasir,9690,HR Operations & Adminstration,NA,Menara 35,Associate (ustaz)
+Mohamad Nidzam Mohamad Shukeri,5816,Strategic Asset Allocation,20505879,Menara 15,Senior Associate
+Mohamad Noorizam bin Janal,5376,Financial & Mgmt Audit,20505264,Menara 26,Pengurus
+Mohamad Radi b Ahmad Sidek,NA,Facilities Management & General Services,06-7990969,Kota Seriemas,Pengawal Keselamatan
+Mohamad Razlan b Khairudin,6018,Unit Trust,06-7990969,ASNB KOTA SERIMAS,Kerani
+Mohamad Rizal Mohamed,5454,Education,NA,Menara 38,Senior Manager
+Mohamad Rizaudin Jaafar,5444,Facilities Management & General Services (Eng),20505221,Menara UG,Kerani\Jrtknik Ren.
+Mohamad Sabarani Sulaiman,5292,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Pengurus I
+Mohamad Sanadi Abdul Malek,6005,Branch Management & Supervision,09-5136694,ASNB Kuantan,Eksekutif III
+Mohamad Shahir bin Zainuri,03-20340847,Asset Management,NA,Menara,Associate
+Mohamad Shahril b Isnin,6081\6082,Branch Management & Supervision,55137155,ASNB Shah Alam,Kerani
+Mohamad Sharif bin Bujang,5863,Business Solution Department,20505790,Menara 25,Senior Clerk
+Mohamad Taufik Othman,6002 \ 6022,Branch Management & Supervision,05-2555506,ASNB Ipoh,Kerani \ Juruteknik Rendah
+Mohamad Zaidi Abdul Rahman,6013,Branch Management & Supervision,084-322497,ASNB Sibu,Eks. II
+Mohamad Zaidi Mohamad,6012,Branch Management & Supervision,085-423746,ASNB Sri Miri,Eks. Kanan
+Mohamad Zuwairi Abd. Rahman,5308,Fund Management,21611075,Menara 16,Vice President
+Mohamed Shafawi Abd Rahman,6002 \ 6022,Branch Management & Supervision,05-2555506,ASNB Ipoh,Eks. II
+Mohamed Shafiq Hatta,9793,Sales & Channel Management,NA,Menara 25,Manager
+Mohamed Shahir b Mohamed Sirad,03-20340809,Amanah Mutual Berhad,NA,Menara 34,Associate
+Mohamed Zamil b Mohamed Razman,5775,Financial & Mgmt Audit,20505264,Menara 26,Manager
+Mohammad Adam b Mohd Yusuf,NA,Branch Management & Supervision,49760800,ASNB Kangar,Juruwang
+Mohammad Alwi Bujang,6013,Branch Management & Supervision,084-322497,ASNB Sibu,Kerani\Jrtknik Ren.
+Mohammad Amiruddin b Othman,5353,HR Operations & Adminstration,20505300,Menara 35,Assistant Vice President
+Mohammad Bazli Che Rozenan,3149,Economics,NA,Menara 15,Analyst
+Mohammad bin Hussin,5204,Unit Trust,NA,Menara 25,CEO & Executive Director ASNB
+Mohammad Fariz bin Md Noor,5802,Technology Support Services,20573163,Menara 10,Associate Manager
+Mohammad Hasif bin Hasan,6012,Branch Management & Supervision,NA,ASNB Miri,Associate
+Mohammad Iskandar bin Karib,9769,Agent Management & Cust. Relations Dept. ASNB,03 20505220,UG Balai,Associate
+Mohammad Razali Bakar,6090,Branch Management & Supervision,88904890,ASNB Putrajaya,Kerani Akaun I
+Mohammad Shahid b Ali Asgar,6072\6073,Branch Management & Supervision,04-6406520,ASNB Bayan Lepas,Juruwang
+Mohammad Shazwan,3167,HR Operations & Adminstration,20505300,Menara 35,Associate
+Mohammed Hafiz b Abdul Mulok,3152,IT Architecture And Strategy,20505685,Menara 32,Senior Associate
+Mohd Aimi Fairul b Mansor,5555,Facilities Management & General Services,20505221,Menara  B1,Pengawal (Kontrak)
+Mohd Akhbal b Lokman,20930976,Facilities Management & General Services (Eng),NA,Menara I & P2,Eksekutif I
+Mohd Ali Kalaruddin,5692,General Office Serv.,20505221,Menara 24,Pem. Penyelia Penyelenggara
+Mohd Alies b Md Desa,9651,Sales & Channel Management,NA,Menara 25,Assosiate
+Mohd Almahfod b Mohd Pakhri,9637,ASNB Accounts,20505273,Menara 37,Eksekutif I
+Mohd Amanuddin Zakaria,5255,Branch Management & Supervision,20505263,Menara 8,Manager
+Mohd Anuar b. Zulkefli,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Mohd Arifaizol b Mohd Ariffin,20921553,Facilities Management & General Services (Eng),20945715,PNB Damansara & Setia 2,Handyman
+Mohd Azhan bin Arshad,5603,Compliance Dept.,NA,Menara 28,Associate
+Mohd Azim b Azmi,6086\6089,Branch Management & Supervision,88904890,ASNB Putrajaya,Kerani
+Mohd Azlan bin Masood,5785,Business Solution Department,20505790,Menara 25,Assistant Vice President
+Mohd Azlan bin Othman,9692,Programme Management Office,NA,Menara 33,Associate
+Mohd Azlan Shah Md Sap,5129,Agent Management & Cust. Relations Dept. ASNB,20505220,Balai UG,Senior Associate
+Mohd Azmir bin Mohd Jani,3055,Corporate Planning & Strategy,03 20505772,Menara 9,Manager
+Mohd Azni Hashim,5647,Facilities Management & General Services (Eng),20505221,Menara 24,Jururencam
+Mohd Azuddin Sham Abdullah,9728,Unit Trust,03 20505225,Menara 8,Naib Presiden
+Mohd Baki Mustafa,20947398,Facilities Management & General Services (Eng),20945715,PNB Damansara,Chargeman
+Mohd Dzull Fefry b Mohd Bakri,3120,Economics,03 20505233,Menara 15,Senior Analyst
+Mohd Eizzuan Zamri,3158,Management Information System,NA,Menara 33,Associate
+Mohd El Zahrul Mohd Rifin,5868,Business Application Systems,20505685,Menara 33,Manager
+Mohd Fadhil Abd Rahman,5475,HR Operations & Adminstration,20505300,Menara 35,Pngwl. Keslamtn\Pmndu.
+Mohamad Fadhil bin Abdul Rahim,9683,Business Application Systems,320505685,Menara 33,Associate
+Mohd Fadzil Abdul Wahab,5342,Financial & Management Audit,,Menara 26,Senior Manager
+Mohd Fadzil Alias,6002  6022,Branch Management & Supervision,NA,ASNB Ipoh,Pengurus Cawangan
+Mohd Fadzli b Fauzi,092901460\61,Branch Management & Supervision,09-2901466,ASNB Temerloh Pahang,Eksekutif II
+Mohd Faisal bin Abdullah,20340860,PNB Merdeka Ventures Sdn Bhd,NA,Menara 19,Kerani
+Mohd Faiz bin Mohd Shariff,5701,Public Equity,NA,Menara 9,Analyst
+Mohd Faizal Abdullah,5189,Investment Processing,21648604,Menara 23,Eks. II
+Mohd Faizal Azmi b Abdul Halim,9723,Compliance Dept.,NA,Menara 26,Associate
+Mohd Faizal bin Yunus,5806,Business Solution Department,20505790,Menara 25,Manager
+Mohd Faizol bin Ismail,5894,Fund Management,NA,Menara 16,Associate Manager
+Mohd Farid Sulaiman,5459,ASNB Accounts,20505273,Menara 37,Executive
+Mohd Faris b Ismail,5416,Real Estate Special Projects,NA,Bangunan MAS,Manager
+Mohd Faris bin Mohd Yusof,5193,Technology Support Services,NA,Menara 10,Associate
+Mohd Fauzee Mohd Hizan,5186,Investment Processing,21648604,Menara 23,Kerani\Jrtknik Ren.
+Mohd Fauzi b. Mohd Amin,5555,Facilities Management & General Services,03-20505221,Menara B1,Ketua Kumpulan
+Mohd Firdaus b. Mohd Aminal Ra,5315,PNB Research Institute,20505228,Menara 3,Associate (Library)
+Mohd Fitri bin Ismail,9638,Domestic & International Properties,Secondment PNB Commercial,Menara 24,Senior Associate
+Mohd Fuad b Hamzah,3091,Investment Analysis,NA,Menara 18,Senior Analyst
+Mohd Hafiz Abu Hassan,6004\6024,Branch Management & Supervision,06-2839940,ASNB Melaka,Eksekutif II
+Mohd Hafizal Mohd Nor,6006\6026,Branch Management & Supervision,NA,ASNB Kota Bharu,Pengurus Cawangan
+Mohd Hamizul Ab Hamid,6006,Branch Management & Supervision,09-7446663,ASNB Kota Bharu,Juruwang Kanan
+Mohd Hanafi Alwi,5443,HR Operations & Adminstration,20505300,Menara 35,Eksekutif
+Mohd Hanafi bin Ibrahim,392127031,PNB Merdeka Ventures Sdn Bhd,NA,Site office 118,Electrical Engineer
+Mohd Hanif Mohd Kassim,5587,ASNB Accounts,20505273,Menara 37,Senior Accounts Clerk
+Mohd Haniz bin Mohd Nazlan,5311,Strategic Asset Allocation,20505879,Menara 15,Assistant Vice President
+Mohd Harith bin Ismail,5543,Unit Trust Operation & Record Admin,NA,Menara 8,Associate Manager-Unit Trust&Record
+Mohd Hasan b Tumin,5555,Facilities Management & General Services,20505221,Menara B1,Pengawal Keselamatan (Kontrak)
+Mohd Hasuwat Husin,5511,Procurement,20505265,Menara 30,Senir Clerk
+Mohd Hazwan bin Mohammad Nor,5438,Financial & Mgmt Audit,20505264,Menara 26,Senior Associate
+Mohd Hizami bin Mohd Iskandar,5875,Corporate Planning & Strategy,20505772,Menara 9,Manager
+Mohd Hussein K. Mohd Ali,6003,Branch Management & Supervision,06-7633384,ASNB Seremban,Juruwang
+Mohd Idzwan bin Wahid,5290,Business Process and Innovation,20505870,Menara 28,Senior Manager
+Mohd Ikhram bin Mokhtar,5812,Sales & Channel Management,NA,Menara 25,Assistant Vice President
+Mohd Iqbal bin Aini,5663,Real Estate Investment Management,NA,Menara 19,Manager
+Mohd Irwan bin Ahmad Mustafa,5249,Private Investment & Special Projects,NA,Menara 23,Senior Vice President - Head
+Mohd Irwan bin Mihat,6565323761,Singapore Unit Trust,NA,SUTL,Manager
+Mohd Isa Umar @ Omar,5402,Human Capital Planning & Development,20505270,Menara 36,Kerani Kanan
+Mohd Izhar bin Satar,3057,Sales & Channel Management,NA,Menara 25,Associate
+Mohd Izwan Mokhtar,6001 \ 6021,Branch Management & Supervision,04-3994404,ASNB Butterworth,Kerani
+Mohd Izzat Fadhli Azman,3016,International,21611075,Menara 16,Associate Manager
+Mohd Jaafar b Din,5666,Facilities Management & General Services (Eng),20505221,Menara  UG,Juruteknik Rendah
+Mohd Jamlus b Ibrahim,NA,Facilities Management & General Services,06-7990969,Kota Seriemas,Pengawal Keselamatan
+Mohd Jani b. Ripin,5555,Facilities Management & General Services,20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Mohd Kamal Mohd Pwad,5473,Company Secretary,21633477,Menara 9,Kerani\Jrtknik Ren.
+Mohd Kamil bin Ibrahim,5856,Domestic & International Properties,NA,Menara 24,Assistant Vice President
+Mohd Khairul Asyraf b Mohamad,320340831,Finance Department,,Menara 29,Associate
+Mohd Lizam bin Zabri,5448,Strategic Asset Allocation,20505879,Menara 15,Kerani Kanan
+Mohd Mazlan Tengop,6004,Branch Management & Supervision,06-2839940,ASNB Melaka,Eks. II
+Mohd Nadzir Azizi bin Hj Azizi,5239,Pelaburan Hartanah Nasional Berhad,NA,Menara 31,Manager
+Mohd Najeb Jana Jarmo,5238,Agent Management & Cust. Relations Dept. ASNB,20505220,Balai UG,Senior Associate
+Mohd Najib Jalaluddin,5721,Procurement,20505265,Menara 30,Associate Manager
+Mohd Nasir Awang,5626,Facilities Management & General Services (Eng),20505221,Menara B2,Jrtknik
+Mohd Nasir bin Othman,5475,HR Operations & Adminstration,NA,Menara 35,Pemandu
+Mohd Nasir Mohd Yunos,5753,Technology Support Services,20505685,Menara 10,Associate
+Mohd Nassir bin Bong Ruziz,5550,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani Kanan
+Mohd Nazeri Latif,3195,Investment Processing,21648604,Menara 23,Kerani\Jrtknik Ren.
+Mohd Nazri b Awang,5594,Investment Analysis,NA,Menara 18,Senior Analyst
+Mohd Nazri Mohd Jais,3102,Unit Trust Operation & Record Admin,NA,Menara 7,Senior Associate
+Mohd Nazziman Mohd Mustapha,9718,Core Application Systems,NA,Menara 32,Associate
+Mohd Nizam bin Zainordin,5567,Group Finance Human Capital & IT,20505880,Menara 29,Timb. Presiden&Ketua Pegawai Kewangan Kump
+Mohd Noor Azam Kamaludin,5128,Technology Support Services,NA,Menara 10,Associate
+Mohd Noor Faizal Mohd Darus,5853,Communications,20505268,Menara 4,Photographer
+Mohd Noor Kasim,3197,Investment Processing,21648604,Menara 23,Kerani Kanan\Steno.
+Mohd Nor Abu Hassan,5660,Unit Trust,20505225,Menara 8,Kerani Kanan
+Mohd Norizam bin Tomirin,5395,Education,NA,Menara 38,Associate
+Mohd Norzan Alias,5864,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani
+Mohd Nurhisyam Mohd Suhaimi,5172,International,NA,Menara 16,Associate Manager
+Mohd Onny Faizal bin Abdullah,9768,PNB Merdeka Ventures Sdn Bhd,20505221,Site office 118,Safety Officer-0392127045
+Mohd Radi b. Mohd Nor,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Mohd Rafe Mohd Zin,5259,ASNB Accounts,20505273,Menara 37,Kerani Kanan
+Mohd Ramlee bin  Abdul Rahman,9625,HR Operations & Adminstration,20505300,Menara 35,Technician
+Mohd Rashidi Awang Ali,6000\6020,Branch Management & Supervision,04-7314140,ASNB Alor Setar,Juruwang Kanan
+Mohd Razif bin Moktar,5847,Human Capital Planning & Development,20505270,Menara 36,Senior Associate
+Mohd Raziman B Mohd Sulaiman,6091 \ 6092 \ 6093 \ 6095,Branch Management & Supervision,32813221,ASNB Kota Kinabalu,Eksekutif II
+Mohd Razmi Hamzah,5287,Unit Trust Operation & Record Admin,20505271,Menara 7,Associate Manager-Performance&Serv. Support
+Mohd Ridza Yahya,5329,Branch Management & Supervision,20505263,Menara 8,Naib Presiden
+Mohd Ridzoh b. Ismail,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Mohd Ridzuan Zulkifli,5193,Investment Analysis,20505224,Menara 18,Eks. II
+Mohd Rizal bin Othman,5724,PNB Merdeka Ventures Sdn Bhd,NA,Menara 19,Assistant Vice Prsident
+Mohd Rofaezal b Mohamad Ramly,5841,Marketing & Financial Literacy Department ASNB,03-20505263,Menara 7,Associate
+Mohd Rofizan Mohd Rafid,6003\6023,Branch Management & Supervision,06-7633384,ASNB Seremban,Eksekutif II
+Mohd Rosdi b. Ab Rahim,5852,Finance Department,20505880,Menara 29,Eksekutif Kanan
+Mohd Roszaiman Masri,5444,Facilities Management & General Services (Eng),20505221,Menara 24,Juruteknik
+Mohd Roszlan b Osman,20930976,Facilities Management & General Services (Eng),NA,Menara  I & P2,Chargeman
+Mohd Saanee Ismail,6003,Branch Management & Supervision,06-7633384,ASNB Seremban,Kerani\Jrtknik Ren.
+Mohd Sabri bin Ramli,5575,Education,20505845,Menara 38,Senior Associate
+Mohd Samsi Mohd Som,6008,Branch Management & Supervision,07-2232533,ASNB Johor Bahru,Kerani Kanan\Steno.
+Mohd Saufi bin Abdul Rahman,320241437,Core Application Systems,NA,Menara 32,Associate
+Mohd Sazali b Zainodin,5365\5210,General Office Serv.,20505221,Theatrette,Assistant Banquet Supervisor
+Mohd Sazeli Nordin,5607,Real Estate Special Projects,20505221,Menara 24,Manager
+Mohd Shafiq bin Salleh,5339,Investment Analysis,20505224,Menara 18,Associate Manager
+Mohd Shah Khairy b Anuar,0320340821\3199,Finance Department,NA,Menara 29,Kerani Akaun
+Mohd Shahidan bin Mahd Rasid,5730,Fund Management,21629335,Menara 16,Assistant Vice President
+Mohd Shairani Bin Ros,5611,PNB Merdeka Ventures Sdn Bhd,20505221,Menara 19,Senior ManagerPlanning&Business Devlp
+Mohd Sharuddin Musa,5475,HR Operations & Adminstration,NA,Menara 35,Pemandu
+Mohd Shukri bin Ismail,9759,Public Equity,NA,Menara 9,Analyst
+Mohd Shukri bin Mohd Hariri,5346,Economics,20505233,Menara 15,Senior Analyst
+Mohd Shukri bin Nordin,9693,Risk Mngmt.,320759733,Menara 28,Associate
+Mohd Shukri Hj Haron,5608,PNB Merdeka Ventures Sdn Bhd,20505221,Menara 19,Senior Manager
+Mohd Shukri Mohd Kamin,5116,Real Estate Special Projects,20505221,Menara 24,Supervisor
+Mohd Sofian b Ramli,6010\6030,Branch Management & Supervision,89210597,ASNB Sandakan,Kerani
+Mohd Sufian Mohd Noor,6000\6020,Branch Management & Supervision,04-7314140,ASNB AlorSetar,Kerani\Juruterknik Rendah
+Mohd Suhairi b Ab Halim,5537,Facilities Management & General Services (Eng),20505221,Menara UG,Chargeman
+Mohd Syaril Azhar Mohd Zaid,9642,Sales & Channel Management,NA,Menara 25,Senior Associate
+Mohd Syukhri Lunggo @ Yusri,6015,Branch Management & Supervision,089-776600,ASNB Tawau,Kerani\Jrtknik Ren.
+Mohd Taqiyuddin Mohd Asri,5373,Equity Market Operations,21619335,Menara 17,Assistant Vice President
+Mohd Yazid bin Jali,5659,IT Business Analyst,,Menara 33,Vice President
+Mohd Yusoff b. Hj. Mohd Isa,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Mohd Yusoff Darul Iman Ibrahim,NA,Unit Trust,NA,NA,Eksekutif II
+Mohd Yusri Md Arop,5161,Asset Management,21610082,Menara 17,Pemandu
+Mohd Yusri Surip,5635,Agent Management & Cust. Relations Dept. ASNB,20505220,UG Balai,Naib Presiden
+Mohd Yuzre Mohamed Zaid,6006,Branch Management & Supervision,97446663,ASNB Kota Bharu,Eksekutif I
+Mohd Zaidi bin Razak,5719,Risk Mngmt.,320759733,Menara 28,Associate Manager
+Mohd Zaidi Sabri bin Mahmud,5442,Communications,20505268,Menara 4,Executive
+Mohd Zailan Mohd Ghazali,5419,Finance Department,20505880,Menara 29,Associate Manager
+Mohd Zainee bin Hussin,5368,PNB Research Institute,20505233,Menara 5,Senior Manager
+Mohd Zainuri Che Par,5532,Procurement,20505265,Menara 30,Associate Manager
+Mohd Zaki bin Talib,5282,Management Information System,20505685,Menara 20,Naib Presiden
+Mohd Zakie Alwi,5387,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Associate
+Mohd Zamni Hassan,6099 \ 6098,Branch Management & Supervision,05-6215150,ASNB Teluk Intan,Eksekutif II
+Mohd Zamri A Rahman,5506,HR Operations & Adminstration,20505300,Menara 35,Kerani\Jrtknik Ren.
+Mohd Zamri Dawan,5508,Marketing & Financial Literacy Department ASNB,NA,Menara 28,Pemandu
+Mohd Zarul Bazlla Mustafa,9611,Business Solution Department,20505790,Menara 25,Associate
+Mohd Zuki bin Osman,5258,Unit Trust Operation & Record Admin,NA,Menara 8,Pemandu
+Mohd Zulfadzli B Jamaludin,3145,Finance Department,NA,Menara 29,Associate Kanan
+Mohd. Naim bin Mat Nor,9637,ASNB Accounts,NA,Menara 37,Associate
+Molineh Bt Michael,NA,Branch Management & Supervision,087-336619,ASNB Keningau,Eksekutif I
+Mona Zarita Abdul Manan,5193,Investment Analysis,20505224,Menara 18,Manager
+Morliana Mohamad Saifuddin,6012,Branch Management & Supervision,085-423384,ASNB Miri,Eksekutif II
+Muakal Abdul Karim,6000\6020,Branch Management & Supervision,NA,ASNB Alor Setar,Pengurus Cawangan
+Muazzam bin Mohamad,3173,Public Equity,NA,Menara 9,Senior Manager
+Mudzar Musa,5547,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani Kanan
+Mufizah binti Stapah@Salleh,3148,Education,20505845,Menara 38,Associate
+Muhamad Aqil bin Mustapha Kama,5595,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Associate
+Muhamad Masri Mustaffa,21664940,PNB Investment Institute S\Bhd,21663406,PNB Darby Park,Senior Executive
+Muhamad Noh Hassan,5444,Facilities Management & General Services (Eng),20505221,Menara UG,Juruteknik
+Muhamad Shahrizad b Sobian,5360,Agent Management & Cust. Relations Dept. ASNB,20505220,UG Balai,Senior Clerk
+Muhammad 'Irfan b Razdwan,3085,Real Estate Investment Management,NA,Menara 19,Senior Associate
+Muhammad Aiman b Shaharudin,3068,Compliance Dept.,NA,Menara 26,Associate
+Muhammad Ainol Fahmi,9747,Compliance Dept.,NA,Menara 26,Administrative Assistant
+Muhammad Al-Suhaimi A Razak,5620,Unit Trust Operation & Record Admin,NA,Menara 7,Senior Manager
+Muhammad Amir Faiz Mohd Razif,3108,Fund Management,21611075,Menara 16,Associate Manager
+Muhammad Ashraf Amir Abdullah,5711,Unit Trust Strategy & Product Management Dpt. ASNB,21610082,Menara 25,Senior Associate
+Muhammad Azrul Azam Md Isa,3020,HR Operations & Adminstration,20505300,Menara 35,Senior Associate
+Muhammad bin Othman,5736,Facilities Management & General Services (Eng),20505221,Menara 24,Assistant Vice President
+Muhammad Faiz bin Nazri,3022,Strategic Asset Allocation,20505879,Menara 15,Senior Associate
+Muhammad Faiz bin Zulbadli,20241402,Strategic Asset Allocation,20505879,Menara 15,Analyst
+Muhammad Faizal Amin Md Taib,9649,Sales & Channel Management,NA,Menara 25,Associate
+Muhammad Faridq Rashid Ridzuan,9633,Fund Management,NA,Menara 16,Associate Manager
+Muhammad Fikri bin Mazlan,6034\6035,Branch Management & Supervision,04-9760800,ASNB Kangar,Eksekutif II (Kontrak)
+Muhammad Fitri Othman,5301,International,21611075,Menara 16,Senior Manager
+Muhammad Hafiz bin Zainudin,5226,Shariah Management,20505678,Menara 38,Associate
+Muhammad Hakimi Abu Othman,5191,Private Investment & Special Projects,21610963,Menara 23,Senior Analyst
+Muhammad Hatim Muhammad Lutpi,092901460\61,Branch Management & Supervision,09-2901466,ASNB Temerloh Pahang,Eksekutif II
+Muhammad Hilal b Abdul Karim,6006\6026,Branch Management & Supervision,04-7310770,ASNB Alor Setar,Eksekutif Kanan
+Muhammad Hilmi bin Anwar,9749,Branch Management & Supervision,NA,Menara 8,Associate
+Muhammad Huzaifah b Abd Rashid,5844,Private Investment & Special Projects,21610963,Menara 23,Eksekutif I
+Muhammad Irfan bin Saharzam,9603,Legal Dept.,NA,Menara 19,Associate
+Muhammad Irsyad Fauzi,9708,Private Investment & Special Projects,NA,Menara 23,Analyst
+Muhammad Izham bin Mohd Fauzi,5111,Financial & Mgmt Audit,NA,Menara 26,Associate
+Muhammad Kamal bin Mustadza,3095,Fund Management,NA,Menara 17,Senior Associate
+Muhammad Nazri Fauzi,9724,Unit Trust Operation & Record Admin,20505225,Menara 8,Associate-Hibah
+Muhammad Noor Zamir b. Nurani,5812,Marketing & Financial Literacy Department ASNB,20505164,Menara 28,Eksekutif II
+Muhammad Rashidan Satapah,5707,Education,NA,Menara 38,Associate Manager
+Muhammad Riza Abdullah,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Muhammad Rusli Othman,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Muhammad Shahidan,9767,Agent Management & Cust. Relations Dept. ASNB,03 20505220,UG Balai,Pembantu Khidmat Pelanggan
+Muhammad Shaiful bin Noh,3134,Domestic & International Properties,20505221,Menara 24,Senior Associate
+Muhammad Syahir Mohd Amin,5411,Human Capital Planning & Development,20505270,Menara 36,Associate Manager
+Muhammad Syazwan Amir,9679,Branch Management & Supervision,20505263,Menara 8,Adminstrative Assistant
+Muhammad Wazir,5533,Branch Management & Supervision,NA,Kaunter Khidmat Pelanggan UG Balai,Associate
+Muhammad Yazid Mohd Hanafiah,5849,Unit Trust Operation & Record Admin,NA,Menara 8,Executive
+Muhammad Zulhilmi bin Ahmad,9754,Fund Management,21611075,Menara 16,Associate
+Muhammed Nizam b. Zulkeflee,6018 \ 06-7990868,Facilities Management & General Services,67990969,Kota Seriemas,Pngwl. Keslamtn\Pmndu.
+Muna Salwa Ishak,5563,ASNB Accounts,20505273,Menara 37,Senior Associate
+Murni Harnita binti Mokhtar,5712,Branch Management & Supervision,NA,Menara 8,Manager
+Murni Izyan binti Hussain,5522,Unit Trust Operation & Record Admin,NA,Menara 7,Associate- Cert
+Mushana Aisamuddin Mustafa,3092,Investment Analysis,20505224,Menara 18,Senior Analyst
+Muslim Md. Hussain,-,Facilities Management & General Services (Eng),20505221,Menara 24,Building Supervisor
+Muslimah @Nurilhuda Abd Rahman,5465,Programme Management Office,20505685,Menara 33,Associate
+Mustafa Kamal Mat,6005,Branch Management & Supervision,09-5136694,ASNB Kuantan,Eksekutif II
+Mustafa Mohd Nor,5196,Research Division,20505233,Menara 5,Ketua
+Mustaffa Kamal Abd. Hamid,5317,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Kerani Akaun II
+Muzzaffar Othman,5631,Management Information System,NA,Menara 33,Chief Technology Officer
+Myra binti Mahbob,5302,Compliance Dept.,20505746,Menara 26,Associate Manager
+Nadia Hanna binti Paisol,3171,Fund Management,NA,Menara 16,Manager
+Nadirah bt Mohd Khalid,5213,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Eksekutif II
+Nadzira Balkhis bt Jailani,092901460\61,Branch Management & Supervision,09-2901466,ASNB Temerloh Pahang,Eksekutif II
+Nadzrin Alia bt Md Azizis,5488,Public Equity,NA,Menara 9,Analyst
+Najmudin bin Muhamad,3132,Business Solution Department,20505790,Menara 25,Manager
+Najuuwa binti Sabli,9779,Fund Management,03 21629335,Menara 16,Senior Associate
+Namaziah bt Zulkifli,9644,Branch Management & Supervision,NA,Menara 8,Associate
+Nan Naimah,5808,Private Investment & Special Projects,21610963,Menara 23,Senior Analyst
+Natali Ng Sui Chu,6015,Branch Management & Supervision,089-776600,ASNB Tawau,Kerani
+Natrina binti Majid,5778,Legal Dept.,20505750,Menara 19,Associate Manager
+Nazihah Bt Mohamed Nazer,6101 \ 6102 \ 6103,Branch Management & Supervision,07-43317112,ASNB Batu Pahat,Eksekutif I
+Nazmi Afiq bin Zainudin,5429,Sales & Channel Management,NA,Menara 25,Associate
+Nazri Hasannal Bashry,5452,Private Investment & Special Projects,NA,Menara 23,Senior Manager
+Nazrul Azuwan Nazri,6005\6025,Branch Management & Supervision,09-5136694,ASNB Kuantan,Kerani
+NCB,31698888,PNB,NA,NA,NA
+Nea Reima Mareana bt Mahadzir,9632,Investment Analysis,20505224,Menara 18,Senior Analyst
+Nelissa Aida binti Mohd Shukor,9746,Finance Department,NA,Menara 29,Associate
+Ng Pei Yen,6009\6029,Branch Management & Supervision,088-218814,ASNB Kota Kinabalu,Eksekutif II
+Nicky Chin,9713,Risk Mngmt.,320759733,Menara 28,Associate
+Nik Ahmad Ariff bin Abdul Aziz,5840,International,NA,Menara 16,Manager
+Nik Akmarizal Nik Mat Dom,5444,Facilities Management & General Services (Eng),20505221,Menara 24,Juruteknik
+Nik Alam Shah b Md Tahir,5555,Facilities Management & General Services,20505221,Menara B1,Pengawal Keselamatan (Kontrak)
+Nik Mohd Adli Isyam,6006\6026,Branch Management & Supervision,09-7446663,ASNB Kota Baharu,Eksekutif II
+Nik Mohd Radzi Nik Wan,5156\5157,Equity Market Operations,NA,Menara 17,Manager
+Nik Myshani b Nik Mohammed,5297,Corporate Services,NA,Menara 6,Vice President
+Nik Nur Aswad b Nik Sulaiman,6005\ 09-5178340,Branch Management & Supervision,NA,ASNB Kuantan,Assosiate
+Nik Nur Syahirah bt Mohammad,5762,Business Solution Department,20505790,Menara 25,Associate
+Nik Nurin Sadrina bt Nik Rusli,3172,Investment Analysis,NA,Menara 18,Analyst
+Nik Sukarnee binti Nik Salleh,5742,Corporate Services,NA,Menara 6,Senior Analyst
+Nik Zulkifli Zainal Abidin,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Nina Jiwana Md Husni,3117,Legal Dept.,20505750,Menara 19,Associate Manager
+Ninamarliza Samsudin,6035,Branch Management & Supervision,49760800,ASNB Kangar,Juruwang
+Noor Akmar bt Jamaludin,9731,Branch Management & Supervision,NA,Menara 8,Associate
+Noor Ashikin Ismail,3198,Investment Processing,21648604,Menara 23,Kerani\Jrtknik Ren.
+Noor Aslina binti Amirudin,5801,PNB Research Institute,20505233,Menara 5,Seniar Clerk
+Noor Azila Mohamed,5648,Unit Trust Operation & Record Admin,20505271,Menara 7,Senior Associate
+Noor Azira Marzukhi,6072\6073,Branch Management & Supervision,04 6406520,ASNB Bayan Lepas,Associate
+Noor Azizah Arifin,6002 \ 6022,Branch Management & Supervision,05-2555505,ASNB Ipoh,Kerani Kanan\Steno.
+Noor Azman Abdul Aziz,5160,Procurement,NA,Menara 30,Naib Presiden
+Noor Azman Hj Merah,5134,Unit Trust Operation & Record Admin,20505271,Menara 8,Kerani Kanan
+Noor Effendy Mohd  Yusop,5791,PNB Merdeka Ventures Sdn Bhd,20505221,Menara 19,Executive
+Noor Hafizah Amir Hassan,3017,Real Estate Special Projects,20505221,Menara 24,Senior Associate
+Noor Harkassimini Nordin,5421,PNB Merdeka Ventures Sdn Bhd,20505221,Menara 19,Kerani Kanan
+Noor Haszumaimah bt Yusof,6086\6089,Branch Management & Supervision,88904890,ASNB Putrajaya,Eksekutif I
+Noor Hazlina Mohamed Supian,6002  6022,Branch Management & Supervision,05-2555505,ASNB Ipoh,Eks. II
+Noor Izzaldeen b Noor Hasnan,3087,Strategic Asset Allocation,20505879,Menara 15,Associate Manager
+Noor Jaslinda Hussin,5304,Facilities Management & General Services,20505221,Menara 24,Stenographer
+Noor Musyahidah Mohd Zawawi,5262,Communications,20505268,Menara 4,Senior Associate
+Noor Qistina Izzaty Amiruddin,5592,ASNB Accounts,20505273,Menara 37,Eksekutif I
+Noor Sherliza bt Nor Hizam,5596,Finance Department,20505880,Menara 29,Associate Manager
+Noor Suzeana Abdul Manap,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Nooraini binti Ibrahim,5156,Equity Market Operations,NA,Menara 17,Assistant Vice President
+Nooraini binti Sidek,5749,Compliance Dept.,20505746,Menara 26,Manager
+Nooraini Derased,5507,Procurement,20505265,Menara 30,Associate Manager
+Nooraini Ibrahim,6074,PNB Asset Management (Japan) Co.Ltd,NA,PNB Japan,Pengurus II
+Nooraizam b Ahmad,5861,Company Secretary,NA,Menara 9,Pemandu Peribadi
+Noorarzrin bt Mohmad Peridar,9624,Communications,20505268,Menara 4,Associate
+Noorashikin binti Sulaiman,5731,Business Solution Department,20505790,Menara 25,Kerani Kanan
+Noorazilah bt Mohd Noor,5653,Communications,NA,Menara 4,Senior Clerk
+Noordena binti Adenan,5250,Office Of President & GCEO,03 21629310,Balai 3,Associate
+Noorhaslinda binti Mohammad,5681,Branch Management & Supervision,NA,Menara 8,Senior Manager
+Noorhasmy bin Tupar,5706,Business Process and Innovation,NA,Menara 28,Senior Manager
+Noorizan Mat Noor,26942218,Facilities Management & General Services (Eng),269313791,Menara Tun Ismail Mohd Ali,Kerani Kanan \ Stenographer
+Noorsuhada binti Ariff,5415,Programme Management Office,20505685,Menara 33,Kerani
+Noorzalina binti  Abdullah,5432,Agent Management & Cust. Relations Dept. ASNB,20505220,Balai UG,Senior Manager
+Noorzielah Ismail,6072\6073,Branch Management & Supervision,04-9760800,ASNB Kangar,Kerani Kanan\Steno
+Nor A'isyah binti Muhamad Nor,9680,Education,NA,Menara 38,Administative Assistant
+Nor Afida binti Awang,5776,Business Process and Innovation,320759733,Menara 28,Executive
+Nor Aidan binti Sohor,5347,Investment Analysis,03 20505224,Menara 18,Clerk
+Nor Athirah binti Mohamed,320241406,Economics,NA,Menara 15,Analyst
+Nor Azielawati binti Mat Adam,9774,IT Service Management,320505685,Menara 33,Associate
+Nor Azizah binti Tukiran,3128,Business Process and Innovation,20505870,Menara 28,Associate Manager
+Nor Azlinda Azmi,6002\6022,Branch Management & Supervision,04-7314140,ASNB Alor Setar,Eksekutif II
+Nor Azman Md Isa,5212,HR Operations & Adminstration,20505300,Menara 35,Associate Manager
+Nor Azmar Zainuddin,6002 \ 6022,Branch Management & Supervision,05-2222205,ASNB Ipoh,Kerani Kanan\Steno.
+Nor Aznita Mohamed Bukhari,6005,Branch Management & Supervision,09-5136694,ASNB Kuantan,Kerani Kanan
+Nor Azwati Abdullah,03 21610975,Facilities Management & General Services (Eng),NA,PNB Darby Park-Level 4,Juruteknik
+Nor Fadhila Md Yusuf,6000\6020,Branch Management & Supervision,04-7314140,ASNB Alor Setar,Eksekuif II
+Nor Fadhilah Mohamed,6003,Branch Management & Supervision,06-7633384,ASNB Seremban,Eksekutif II (Kontrak)
+Nor Faizah binti Kamal Bashah,5148,Risk Mngmt.,320759733,Menara 28,Assistant Vice President
+Nor Fara Ain bt Abdullah,9635,Private Investment & Special Projects,20610963,Menara 23,Senior Analyst
+Nor Hafidzah binti Kamis,3170,Branch Management & Supervision,NA,Menara 8,Associate
+Nor Hasawani binti Abdul Hamid,5426,Business Solution Department,320505790,Menara 25,Executive
+Nor Hayati Ahmad,6005,Branch Management & Supervision,09-5136694,ASNB Kuantan,Kerani Kanan
+Nor Hazleen binti Nik Jaafar,5422,PNB Research Institute,20505233,Menara 5,Associate Manager
+Nor Hidhir Abd Mutalib,26946972,Facilities Management & General Services,26913791,Menara Tun Ismail Mohd Ali,Ketua Kumpulan
+Nor Laila Mohd Yusof,5531,Procurement,20505265,Menara 30,Kerani Kanan
+Nor Laily binti Yahya,5446,Education,NA,Menara 38,Associate
+Nor Lidar binti Abd Rahman,5232,HR Operations & Adminstration,20505300,Menara 35,Senior Clerk
+Nor Mohamad Shaikh Ramlai,20940173,Facilities Management & General Services,20945715,PNB Damansara,Ketua Kumpulan
+Nor Najwa bt Abd Karim,6006\6026,Branch Management & Supervision,09-7446663,ASNB Kota Baharu,Eksekurif II
+Nor Sakinah binti Abdul Samad,5788,Public Equity,20505772,Menara 9,Senior Clerk
+Nor Suhana Ghani,6015,Branch Management & Supervision,089-776600,ASNB Tawau,Kerani
+Nor Zalikha Wahida,9687,Technology Support Services,NA,Menara 10,Associate
+Nor'aini Ahmad Tajuddin,5501,Finance Department,20505880,Menara 29,Executive
+Nora binti Mohammed Saai,5610,Legal Dept.,20505750,Menara 19,Senior Clerk
+Nora Jau,6011\6031,Branch Management & Supervision,082-250313,ASNB Kuching,Juruwang
+Nora Shafie,05-6215158\ 5150\ 5164,Branch Management & Supervision,NA,ASNB Teluk Intan,Eksekutif II
+Norafandy Mohd Yusoff,3191,Amanah Mutual Berhad,21625958,Menara 34,Senior Associate
+Norafidah Ashikin Ahmad Shayut,9614,Company Secretary,NA,Menara 9,Kerani
+Noraida Othman,6092,Branch Management & Supervision,32813221,ASNB Kuala Selangor,Eksekutif III
+Norain Ramathiah Mohd Shamsudi,5581,ASNB Accounts,20505273,Menara 37,Associate
+Noraini binti Abdul Karim,5371,Programme Management Office,NA,Menara 30,Manager
+Noraini binti Mahammad,5135,Fund Management,21611075,Menara 16,Kerani Kanan
+Noraini bt Ahmad Kamal,9618,General Office Serv.,NA,Menara 24,Manager
+Norani Ayub,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Noraniza binti Adib Anuar,5538,Branch Management & Supervision,20505263,Menara 8,Associate Manager
+Norashikin Abang,6011,Branch Management & Supervision,082-250313,ASNB Kuching,Eks. III
+Norasikin Che Had,5398,HR Operations & Adminstration,NA,Menara 7,Associate Manager
+Norazida binti Azman,5393,Investment Analysis,20505224,Menara 18,Assistant Vice President
+Norazihan Mohamed,5638,Agent Management & Cust. Relations Dept. ASNB,20505220,Balai UG,Eks. I
+Norazila binti Jamaluden,5222,Risk Mngmt.,320759733,Menara 28,Senior Clerk
+Norazlina Omar,3184,Public Equity,21629470,Menara 6,Secretary
+Norazlinawati bt Mohd Noh,6101 \ 6102 \ 6103,Branch Management & Supervision,07-43317112,ASNB Batu Pahat,Eksekutif II
+Norazlinda Azmi,6000 \ 6020,Branch Management & Supervision,04-7314140,ASNB Alor Setar,Eks. II
+Norazman b. Nordin,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Norbahriah binti Sulaiman,5426,Human Capital Planning & Development,20505270,Menara 36,Senor Associate
+Norbazura binti Basir,3084,Finance Department,20505880,Menara 29,Senior Clerk
+Nordin bin Saad,5409,Human Capital Planning & Development,20505270,Menara 36,Kerani Kanan
+Noreena bt Mohamad,5849,Asset Management,NA,SUTL,Pengurus
+Norfaizah Binti Mohamed,5630,HR Operations & Adminstration,20505300,Balai UG,Pembantu Pentadbiran
+Norfazli bin Ismail,5553,Unit Trust Operation & Record Admin,20505271,Menara 8,Associate Manager
+Norhafiza bt Ahdad,6072\6073,Branch Management & Supervision,04-6406520,ASNB Bayan Lepas,Juruwang
+Norhafiza Idayu binti Alias,9657,Sales & Channel Management,NA,Menara 25,Associate
+Norhairina binti Mohamed Noor,5704,Legal Dept.,20505750,Menara 19,Manager
+Norhaizat Kharian,5796,Business Solution Department,20505790,Menara 25,Associate Manager
+Norhakimi bin Nordin,20340859,Amanah Mutual Berhad,21625958,Menara 34,Associate
+Norhanim Mohamad Yusof,5675,ASNB Accounts,20505273,Menara 37,Senior Associate
+Norhasimah bt Abd Razak,5630,HR Operations & Adminstration,20505300,UG Balai,Pembantu Tadbir
+Norhasni Shariff,5251,Office Of President & GCEO,21629310,Balai 3,Kerani Kanan\Steno.
+Norhayati bt Shariff,3106,Branch Management & Supervision,21618852,Balai 1,Associate
+Norhayati Mohd Amin,5276,Core Application Systems,03 20505685,Menara 32,Associate Manager
+Norhazlin @ Azlin Yusof,6015,Branch Management & Supervision,089-776600,ASNB Tawau,Juruwang
+Norhidayu Mohd Norrawi,6006\6026,Branch Management & Supervision,09-7446663,ASNB Kota Bharu,NA
+Norhimah binti  Ahmad,5585,ASNB Accounts,20505273,Menara 37,Executive
+Norhisham bin Daud,5487,Private Investment & Special Projects,NA,Menara 23,Senior Manager
+Norhusniah binti Yusoff,3018,Investment Analysis,20505224,Menara 18,Associate Manager
+Noriah binti Ahmad Suhaimi,5670,Branch Management & Supervision,20505263,Menara 8,Kerani Kanan
+Norikhsan b Md Yusof,5555,Facilities Management & General Services,20505221,Menara  B1,Pengawal Keselamatan (Kontrak)
+Norizan binti Sallehuddin,5378,Fund Management,21611075,Menara 16,Stenographer
+Norizan Saleh,3193,Investment Processing,21648604,Menara 23,Penolong Pengurus
+Norizwan b Razak,3106,Branch Management & Supervision,NA,Kaunter Utama,Cashier
+Norjunaini Abdul Hamid,6035,Branch Management & Supervision,04-9760800,ASNB Kangar,Kerani\Jrtknik Ren.
+Norlaila Dahalan,5185,Investment Processing,21648604,Menara 23,Kerani Kanan\Steno.
+Norleala binti Bahari,5375,HR Operations & Adminstration,20505300,Menara 35,Associate Manager
+Norlin Abdul Malek,5846,Education,03-20505845,Menara 38,Kerani Kanan
+Norliza Ahmad,5495,Company Secretary,21633477,Menara 9,Pengurus II
+Norliza binti Haji Ali,5114,Branch Management & Supervision,21618852,Balai 1,Senior Clerk
+Norliza Osman,5493,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Kerani Akaun Kanan
+Normah binti Aman,5284,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Associate
+Normah binti Isa,5321,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Assistant Vice President
+Normala Lamin,5822,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Eks. I
+Normasilla binti Ponijan,3131,Unit Trust Operation & Record Admin,NA,Menara 7,Senior Associate
+Normawati binti Abd Rahim,5478,Sales & Channel Management,NA,Menara 25,Senior Clerk
+Normazura binti Berahim,5359,Investment Analysis,20505224,Menara 18,Vice President
+Normilhan Mohammed Rathi,5837,Investment Analysis,20505224,Menara 18,Kerani Kanan\Steno.
+Norra binti Nordin,5738,HR Operations & Adminstration,20505300,Menara 35,Associate Manager
+Norrohaya Ramli,6007,Branch Management & Supervision,09-6235422,ASNB Kota Bharu,Kerani Kanan\ Steno
+Norshafiqah Amalina,5479,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Associate
+Norshaliza Anuar,5518,ASNB Accounts,20505273,Menara 37,Associate Manager
+Norsidah A. Ghani,5127,Agent Management & Cust. Relations Dept. ASNB,20505220,Balai UG,Kerani Kanan
+Noryani bt Hj Sairiah,6109 \ 6110 \ 6111 \ 6112,Branch Management & Supervision,087-336619,ASNB Keningau,Eksekutif II
+Norzaini binti Sabdin,5855,Communications,20505268,Menara 4,Associate
+Nozlan Hashim,26942213,Facilities Management & General Services (Eng),26913791,Menara Tun Ismail Mohd Ali,Juruteknik
+Nun Zameera Zakaria,5137,Business Solution Department,20505790,Menara 25,Associate Manager - Business Solutions Dpt
+Nur Adzimah binti Mohd Hazaki,5174,Corporate Planning & Strategy,NA,Menara 9,Associate Manager
+Nur Adzlina Kamaruddin,5121,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Eksekutif Kanan
+Nur Aiman Syuhada bt Zainuddin,5745,Branch Management & Supervision,NA,UG Balai,Associate
+Nur Ainaa Athirah binti Mohd Y,3104,Unit Trust Operation & Record Admin,NA,Menara 8 - Hibah,Associate
+Nur Akmal Ahmad,5261,Communications,20505268,Menara 4,Eks. II
+Nur Amalina Mohamed,3019,Fund Management,21611075,Menara 16,Manager
+Nur Ariffin Mohamed,092901460\61,Branch Management & Supervision,09-2901466,ASNB Temerloh Pahang,Eksekutif I
+Nur Asila binti Harun,5101,Unit Trust Operation & Record Admin,NA,Menara 8,Associate- Hibah
+Nur Atiqah bt Raduan,6013,Branch Management & Supervision,NA,ASNB Sibu,Juruwang
+Nur Azida binti Azuddin,5199,Strategic Asset Allocation,20505879,Menara 15,Associate Manager
+Nur Azra binti Abdul Ghani,3133,Strategic Asset Allocation,20505879,Menara 15,Senior Associate
+Nur Baiti bt Omar,0320241465,Branch Management & Supervision,,Menara 25,Associate
+Nur Diyana binti Nor'azalan,5898,Fixed Income,NA,Menara 17,Associate
+Nur Farahbi binti Shaari,5833,Public Equity,NA,Menara 23,Senior Analyst
+Nur Farhah binti Anor,5766,Public Equity,NA,Menara 9,Analyst
+Nur Fathiah bt Zulkafly,3030,Human Capital,20505270,Menara 35,Stenographer- Human Capital
+Nur Fatin Nabillah,6005\ 09-5178340,Branch Management & Supervision,NA,ASNB Kuantan,Juruwang
+Nur Hadzlin binti Hamdan,5649,Unit Trust Operation & Record Admin,NA,Menara 8,Admin Assistant
+Nur Hafizah binti Fini,5418,Core Application Systems,NA,Menara 32,Associate
+Nur Hanizah binti Ghazali,5477,Branch Management & Supervision,NA,Menara 8,Associate Manager
+Nur Iliani bt Mohd Zaki,6072\6073,Branch Management & Supervision,04-6406520,ASNB Bayan Lepas,Assosiate
+Nur Izzati binti Idris,320241413,ASNB Accounts,NA,Menara 37,Associate
+Nur Khashida bt Mohd,092901460\61,Branch Management & Supervision,09-2901466,ASNB Temerloh Pahang,Eksekutif II
+Nur Lina binti Rasol,5899,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Associate Manager
+Nur Nabila Rose Abdullah,NA,Branch Management & Supervision,NA,ASNB Bintulu,Eksekutif Kanan
+Nur Najiyyah Praemila Abdullah,6008\6028,Branch Management & Supervision,NA,ASNB Johor Bharu,Pengurus Cawangan
+Nur Safwan bin Mohamed Yusup,3028,International,21611075,Menara 16,Associate Manager
+Nur Shazreen Muhammad Rosli,3123,Real Estate Investment Management,NA,Menara 19,Associate Manager
+Nur Shila binti Abdul Rashid,9710,Public Equity,NA,Menara 9,Analyst
+Nur Solehah bt Koma'rudin,5519,ASNB Accounts,03-20505273,Menara 37,Associate
+Nur Suzilyzan binti Surimin,9652,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Assosiate
+Nur Zafirah Mohd Mahadi,6002\6022,Branch Management & Supervision,05-2555506,ASNB Ipoh,Juruwang
+Nur'ain binti Mohd Shaizan,3048,Public Equity,03 20505772,Menara 9,Associate Manager
+Nur'ain Zareena binti Azmi,5381,Business Process and Innovation,320759733,Menara 28,Associate
+Nurasikin binti Kamal,5682,Real Estate Special Projects,NA,Menara 24,Associate
+Nurdina Mohd Shamsudin,3010,PNB Merdeka Ventures Sdn Bhd,20505221,Menara 19,Manager
+Nurhalini Azly binti Minhat,3114,Fund Management,03 21629335,Menara 16,Assistant Vice President
+Nurhayati binti Abu Zakie,9691,Risk Mngmt.,320759733,Menara 28,Associate
+Nurhazirah binti Hamzah,3004,IT Security,NA,Menara 33,Associate
+Nurili Mohd Seth,5551,Unit Trust Operation & Record Admin,20505225,Menara 8,Senior Associate
+Nurlaily Osman,6008\6028,Branch Management & Supervision,07-2232533,ASNB Johor Baharu,Eksekutif I
+Nurliyana binti Mazlan,5489,Compliance Dept.,NA,Menara 26,Associate
+Nurmadani Akmal Zainal Akamar,5703,IT Architecture And Strategy,NA,Menara 32,Senior Associate
+Nurman b Mohd Azlan,NA,Human Capital Planning & Development,NA,Menara 36,Eksekutif Pelatih
+Nurman bin Mohd Nawi,5754,Unit Trust Strategy & Product Management Dpt. ASNB,21610082,Menara 25,Associate Manager
+Nurrin binti Abd Razak,9700,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Associate
+Nursyahida binti Abdullah,5714,Communications,NA,Menara 4,Associate Manager
+Nurul Amira binti Ramli,3107,Compliance Dept.,NA,Menara 26,Associate
+Nurul Ashikin bt Abd Halim,9630,Private Investment & Special Projects,21610963,Menara 23,Analyst
+Nurul Asma binti Safiee,3175,IT Security,20573163,Menara 33,Senior Manager
+Nurul Azilah Ahmad Kamil,5574,Private Investment & Special Projects,NA,Menara 23,Manager
+Nurul Azliza Baharudin,5414,IT Service Management,20573163,Menara 33,Associate
+Nurul Farihah Abdul Malik,5869,Core Application Systems,03-20505685,Menara 32,Senior Associate
+Nurul Faten Atila Abdul Ghani,5178,International,21611075,Menara 16,Associate
+Nurul Haiyani bt Ismail Latif,9636,ASNB Accounts,20505273,Menara 37,Eksekutif I
+Nurul Hayati binti Mohd Dise,5197,Business Solution Department,20505790,Menara 25,Manager
+Nurul Hidayah binti Rawi,5662,Pelaburan Hartanah Nasional Berhad,NA,Menara 24,Associate
+Nurul Husna Safiee,5891,International,21611075,Menara 16,Senior Manager
+Nurul Izza binti Mat Latip,5133,Business Process and Innovation,20505870,Menara 28,Associate Manager
+Nurul Latifah Hasan,6006\6026,Branch Management & Supervision,09-7446663,ASNB Kota Bharu,Kerani
+Nurul Nadiah Zaki Johor,6001\6021,Branch Management & Supervision,04-3994404,ASNB Butterworth,Juruwang
+Nurul Safuraa Mohd Sahri,3045,Programme Management Office,NA,Menara 33,Associate
+Nurul Shuhaida binti Wahab,9684,IT Security,20573163,Menara 33,Associate
+Nurul Syuhada Marzuki,6000 \ 6020,Branch Management & Supervision,04-7314140,ASNB Alor Setar,Eksekutif II
+Nurul' Ain Mohd Tahir,5623,Compliance Dept.,NA,Menara 26,Associate Manager
+Nurulain binti Mohd Zaki,6081\6082,Branch Management & Supervision,355137155,ASNB Shah Alam,Eksekutif II
+Nurulaiza binti Ismail,6086\6089,Branch Management & Supervision,21618852,ASNB Putrjaya,Juruwang
+Nurulhuda bt Salleh,6034\6035,Branch Management & Supervision,04-9760800,ASNB Kangar,Juruwang Kanan
+Operation Room (Praktikal),5131,Education,20505845,Menara 38,NA
+Osman bin Hj Ismail,5150,Programme Management Office,NA,Menara 20,Naib Presiden
+Othman Alang Mohamed Samin,5555,Facilities Management & General Services,20505221,Menara B1,NA
+Paridah Taha,5116,Real Estate Special Projects,NA,Menara 24,Kerana Kanan
+Pelaburan Hartanah Berhad,77113000,PNB,NA,Subang,NA
+Pelajar Praktikal,5882,Procurement,20505265,Menara 33,NA
+Pelajar Praktikal II,5505,Procurement,20505265,Menara 33,NA
+PELANGI,73324366,PNB,NA,JOHOR,NA
+Percetakan Nasional M'sia Bhd,92366888,PNB,NA,NA,NA
+PERNEC,21611371,PNB,NA,TKT 31,NA
+PETALING GARDEN,03-77820518,PNB,NA,NA,NA
+PFM Capital,03-21615272,PNB,NA,NA,NA
+PNB Commercial Sdn Bhd,20726811,PNB,03-20726812,The Penthouse Wisma Nusantara Jln Puncak Of,PNBC (Perdana)0321651160
+PNB DAMANSARA,2094 0173,PNB,NA,NA,NA
+PNB Development Sdn Bhd,03-87399339,PNB,NA,Kajang,NA
+PNB ENTERPRISE,03-20941644,PNB,03-20932334,S.Darby Livestock Sdn Bhd Wisma Guthrie 21,NA
+PNB Enterprise Sdn Bhd,20941644,PNB,20932334,NA,NA
+PNB JAPAN,6074,PNB,NA,JAPAN,NA
+PNB Property Holdings,5413 - Com. Sec,PNB,NA,NA,NA
+PNB UK,6049,PNB,4.42074E+11,UK,NA
+PNS,26987800,PNB,NA,NA,NA
+Pos Keslamtn No. 2,3205,Facilities Management & General Services,NA,Menara B1 Balai,NA
+Pos Keslamtn No. 3,5602,Facilities Management & General Services,NA,Menara B1 (Lif Barang),NA
+Pos Keslamtn No. 4,3206,Facilities Management & General Services,NA,Menara B1 (Pondok Keluar PNB),NA
+Pos Keslamtn No. 7,3204,Facilities Management & General Services,NA,Menara B1 Menara,NA
+Pos Keslamtn No. 8,3203,Facilities Management & General Services,NA,Menara UG Menara,NA
+Pos Keslamtn No. 9,5130,Facilities Management & General Services,NA,Balai 1 (Main Counter),NA
+Pos Malaysia 1,5502,HR Operations & Adminstration,NA,B2, -
+Pos Malaysia 2,5285,HR Operations & Adminstration,NA,B2,NA
+Praktikal,5111,Marketing & Financial Literacy Department ASNB,21618852,Balai 1,NA
+Praktikal,9639,Marketing & Financial Literacy Department ASNB,NA,Balai 1,NA
+Praktikal,9640,Human Capital Planning & Development,NA,NA,NA
+Praktikal,9641,Human Capital Planning & Development,NA,NA,NA
+Praktikal,5716,Human Capital Planning & Development,NA,Menara 36,NA
+Printing Room,5424,HR Operations & Adminstration,NA,35 Menara,NA
+PROLINTAS,21642450,PNB,NA,MENARA 1216,NA
+Puan Rini,392127040,PNB Merdeka Ventures Sdn Bhd,NA,Site office 118,Secretary Turner
+PUNB,27851515,PNB,NA,NA,NA
+PUSAT KAWALAN - CCTV Room,5558,Facilities Management & General Services,NA,BS1,NA
+Pusat Kawalan Keslamtn,5555,Facilities Management & General Services,21618245,Menara B1,NA
+Putri Mariam binti Abd Aziz,5782,Branch Management & Supervision,NA,Menara 8,Senior Associate
+Quah Lai Ying,5758,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Eks. II
+Rabaiah Abdul Rahim,5503,ASNB Accounts,20505273,Menara 37,Senior Clerk
+Rabeha Ibrahim @ Abd Rahman,6006\6026,Branch Management & Supervision,09-7446663,ASNB Kota Bharu,Eksekutif I
+Raduyah Bt Marup,6014,Branch Management & Supervision,083-323233,ASNB Sri Aman,Eksekutif Kanan
+Raela binti  Amat,5861,Company Secretary,03 21633477,Menara 9,Kerani Kanan
+Rafidah Abdul Rahman,5598,ASNB Accounts,20505273,Menara 37,Associate
+Rafidah Arifah binti Abd Rahim,5103,Sales & Channel Management,NA,Menara 25,Associate
+Rahimah binti Omar,5416,Corporate Affairs & Communication,NA,Menara 4,Eksekutif
+Rahir binti Md. Ramli,5530,Business Solution Department,20505225,Menara 25,Kerani
+Rahmat Rajab,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Raja Amila binti Raja Azahar,3096,Investment Analysis,20505224,Menara 18,Senior Analyst
+Raja Faizal Dato' Raja Ideris,5770,Corporate Services,NA,Menara 6,Associate Manager
+Rajita Simun,6009,Branch Management & Supervision,088-218814,ASNB Kota Kinabalu,Kerani\Jrtknik Ren.
+Ramella Bujang,6012,Branch Management & Supervision,085-423384,ASNB Miri,Kerani\Jrtknik Ren.
+Ramli b. Samsun,5734,Facilities Management & General Services,03-20505221,Menara B1,Penyelia Keselamatan
+Ramli bin Che Mat,5555,Facilities Management & General Services,NA,B1B,Pengawal Keselamatan
+Ramli Hamzah,6099 \ 6098,Branch Management & Supervision,05-6215150,ASNB Teluk Intan,Eksekutif II
+Ramli Husin,6007,Branch Management & Supervision,96235422,ASNB Kuala Terengganu,NA
+Rashid bin Dolmat,5355,Property\Real Estate,NA,Menara 24,Personal Driver
+Rashidah bt Abdul Hamid,5389,Legal Dept.,20505750,Menara 19,Senior Associate
+Rashidie Hj. Hashim,6004,Branch Management & Supervision,06-2839940,ASNB Melaka,Kerani Kanan
+Rasidah Dorani,3106,Branch Management & Supervision,03-24618852,Balai 1,Senior Cashier
+Ratna Liza binti Ali,9681,Branch Management & Supervision,NA,Kaunter Utama,Associate
+Raynelda Jane Atin,6010\6030,Branch Management & Supervision,089-210597,ASNB Sandakan,Kerani
+Razali b Mohd Zain,5588,Branch Management & Supervision,21618852,Balai 1,Branch Manager
+Razali Ismail,6086\6089,Branch Management & Supervision,88904890,ASNB Putrajaya,Juruwang Kanan
+Razeman b. Othman,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Razeta Halena Mohamed,5205,Group Finance Human Capital & IT,20505880\5881,Menara 29,Stenographer
+Razid bin Man,5617,Unit Trust Operation & Record Admin,NA,Menara,Senior Associate
+Razieman bin Shari,9659,Unit Trust Operation & Record Admin,NA,Menara 8,Pembantu Pentadbiran
+Rexter Cyril Lawrence,NA,Branch Management & Supervision,087-336619,ASNB Keningau,Eksekutif II
+Riaz Ali b. Ali Akkbar,NA,Branch Management & Supervision,NA,NA,Eksekutif II
+Ribhan binti Kamaruddin,5516,ASNB Accounts,20505273,Menara 37,Senior Accounts Clerk
+Rizal b Mat Deris,5666,Facilities Management & General Services (Eng),20505221,Menara UG,Chargeman
+Rizal Haffiz b Mahusin,6018,Facilities Management & General Services,06-7990969,Kota Seriemas,Pengawal Keselamatan
+Rizal Rickman bin Ramli,5145,Property\Real Estate,NA,Menara 24,Executive Vice President Property
+Riziana Hanim Jamel,5885,Finance Department,20505880,Menara 29,Vice President
+Rofeaah binti  Kamal,5108,Agent Management & Cust. Relations Dept. ASNB,320505220,UG Balai,Eksekutif
+Roha binti Saad,5886,Finance Department,20505880,Menara 29,Kerani Akaun Kanan
+Rohaiza Mat Rashid,5257,Unit Trust Operation & Record Admin,NA,Menara 8,Administrative Assistant
+Rohaizad Ismail,6001 \ 6021,Branch Management & Supervision,04-3994404,ASNB Butterworth,Juruwang
+Rohana binti Zakaria,5126,Unit Trust Operation & Record Admin,NA,Menara 7,Associate
+Rohana Ismail,5152,Investment Processing,21648604,Menara 23,Penolong Naib Presiden
+Rohana Md Yasin,9656,Branch Management & Supervision,21618852,Balai 1,Senior Clerk
+Rohayati Mat Piah,6072\6073,Branch Management & Supervision,04-6406520,ASNB Bayan Lepas,Juruwang
+Rohayu binti Rashid,5560,Financial & Mgmt Audit,20505264,Menara 26,Associate
+Rokiah bt Yazidun,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Romie bin Rosman,5825,ASNB Accounts,20505746,Menara 37,Senior Manager
+Romizaidi bin Mohd Ali,3023,HR Operations & Adminstration,20505300,Menara 35,Senior Associate
+Rosalind Pilos,6015,Branch Management & Supervision,089-776600,ASNB Tawau,Kerani Kanan
+Rosdiana Mohd Rosdi,9613,Branch Management & Supervision,21618852,Kaunter Utama,NA
+Rosdzita binti Hj Ibrahim,20340816,Amanah Mutual Berhad,03-21631232\21633848,Menara 34,Senior Associate
+Rose Anita binti Jalil,5831,Fund Management,21611075,Menara 16,Vice President
+Rose Emalinda Jamiah Mahat,5759,Business Process and Innovation,320759733,Menara 28,Senior Manager
+Rosenani Arini,6013,Branch Management & Supervision,084-322497,ASNB Sibu,Kerani\Jrtknik Ren.
+Roshasni Muhamad Ali,6002 \ 6022,Branch Management & Supervision,05-2555506,ASNB Ipoh,Kerani\Jrtknik Ren.
+Rosieha Hari Padilah,3083,Finance Department,20505880,Menara 29,Kerani Akaun II
+Rosili bin Ahmad,5475,HR Operations & Adminstration,NA,Menara 35,Pemandu
+Rosita binti Shamsudin,5887,Finance Department,20505880,Menara 29,Senior Clerk
+Roslan bin Harouni,5780,ASNB Accounts,20505273,Menara 37,Snior Accounts Clerk
+Roslan bin Ibrahim,5361,Communications,20505268,Menara 4,Manager
+Roslan Mohamad,5444,Facilities Management & General Services (Eng),20505221,Menara 24,Ketua Kumpulan
+Roslan Mohd Noh,6018,Facilities Management & General Services,06-7990969,Kota Seriemas,Pengawal Keselamatan (Kontrak)
+Roslee b Mohamed Kharoni,5622,Domestic & International Properties,NA,Menara 24,Manager
+Rosli Bahari,5655,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani Kanan
+Rosli bin Abdul Aziz,9617,Branch Management & Supervision,21618852,Balai 1,Senior Clerk
+Rosli bin Ismail,374903952,Hospitality(PMSSB),374903951,Lvl.5 PNB Perdana Hotel,Senior Manager-Secondment
+Rosli bin Sidek,5521,Unit Trust Operation & Record Admin,20505225,Menara 8,Kerani Kanan
+Roslina binti Mohd Sedek,5460,Sales & Channel Management,NA,Menara 25,Associate Manager
+Rosliwati Mohd Junid,5130,Branch Management & Supervision,21618852,Kaunter Utama,Juruwang
+Rosmah Latip,5241,Agent Management & Cust. Relations Dept. ASNB,20505220,UG Balai,Senior Clerk
+Rosmahhani binti Abdul Ghani,5708,Unit Trust,NA,Menara 25,Executive
+Rosmawati Shamsudin,3078,ASNB Accounts,20505273,Menara 37,Senior Accounts Clerk
+Rosmuna binti Hoesni,5157,Equity Market Operations,21613622,Menara 17,Senior Manager
+Rosnah binti Mohd Janor,9628,Fixed Income,NA,Menara 17,Naib Presiden
+Rosnizar bt Zahari,5260,Programme Management Office,20505685,Menara 20,Associate
+Ross Liza Othman,20340848,Amanah Mutual Berhad,03-21625958,Menara 34,Senior Manager
+Roszaman b Mustaffa,5555,Facilities Management & General Services,20505221,Menara B1,Pengawal Keselamatan (Kontrak)
+Roza Hussein,5230,Programme Management Office,20505685,Menara 33,Associate Manager
+Rozaimah binti Nasri,5293,Communications,20505268,Menara 4,Kerani
+Rozaimi Mohd Yusof,6034,Branch Management & Supervision,04-9760800,ASNB Kangar,Eks. II Caw. ASNB Kangar
+Rozaina Aman,6004,Branch Management & Supervision,06-2839940,ASNB Melaka,Kerani\Jrtknik Ren.
+Rozaini Abd Raub,3187,Business Application Systems,NA,Menara 33,Senior Associate
+Rozali Sapiri,6099 \ 6098,Branch Management & Supervision,05-6215150,ASNB Teluk Intan,Ketua
+Rozalinda binti Katan,3183,Amanah Mutual Berhad,03-21633212\21632535,Menara 34,Senior Clerk
+Rozana Ahmad Fuad,6072,PNB,46406520,ASNB Bayan Lepas,NA
+Rozi Mohd Idris,5444,Facilities Management & General Services (Eng),20505221,Menara 24,Operator BAS
+Roziah Kasim,6018,Branch Management & Supervision,NA,Kota Seriemas,NA
+Rozilah binti Harun,5613,Business Solution Department,20505225,Menara 25,Kerani Kanan
+Rozita binti Hj Bakar,5599,Finance Department,20505880,Menara 29,Senior Associate
+Rozita binti Ibrahim,5283,IT Architecture And Strategy,,Menara 32,Executive
+Rozita binti Mohamad,9778,PNB Value Homes,NA,Menara 3,Stenographer
+Rozita binti Shaari,20340806,Amanah Mutual Berhad,03-21625958,Menara 34,Associate Manager
+Roziyeah binti Ahmad,5593,Finance Department,20505880,Menara 29,Senior Associate
+Ruhaidah binti Mohamed Salleh,5450,Business Process and Innovation,20505870,Menara 28,Manager
+Rukiah binti A. Samad,5382,Human Capital Planning & Development,NA,Menara 36,Manager
+Rukyno Buang,NA,Branch Management & Supervision,NA,ASNB Bintulu,Ketua Pejabat
+Rushizah Abu Seman,6006,Branch Management & Supervision,09-7446663,ASNB Kota Bharu,Eks. III
+Ruslina Ruslan,5657,Business Solution Department,20505790,Menara 25,Kerani Kanan
+Rusliza binti Rawi,9666,Unit Trust,NA,Menara 8,Associate-Investment Claim
+Rusmarina Ismail,5492,Domestic & International Properties,20505221,Menara 24,Associate Manager
+Ruwaida binti Awang,320241433,Communications,NA,Menara 4,Associate
+Ruzaimi Hj Ibrahim,6018,Facilities Management & General Services,06-7990969,Kota Seriemas,Pengawal Keselamatan (Kontrak)
+Ruzain Shuhadak,5156,Investment Division,21613622,Menara 17,Specialist
+Saad Naaman,5819,Marketing & Financial Literacy Department ASNB,20505164,Menara 28,Kerani Kanan
+Saadah binti Hassan,6082-55103155,Branch Management & Supervision,03-55137155,ASNB Shah Alam,NA
+Sabana bin Surathaman,6011\6031,Branch Management & Supervision,082-250313,ASNB Kuching,Juruwang
+Sabaniah binti Yusoff,5557,Internal Assurance Division,20505264,Menara 26,Kerani Kanan
+Sabariah binti Mohd Sharip,5385,Marketing & Financial Literacy Department ASNB,NA,Menara 8,Executive
+Sabri bin Marwi,5566,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Associate
+Sadikah Hanim binti Saari,5155,Fixed Income,21613622,Menara 17,Assistant Vice President
+Safiah Wahab,5625,General Office Serv.,20505221,Menara 24,Eks. III
+Safian bin Mohd Razali,9732,ASNB Accounts,NA,Menara 37,Associate Manager
+Safuan Yusoff,5794,Financial & Mgmt Audit,20505264,Menara 26,Eksekutif Kanan
+Saharom Samad,5698,Facilities Management & General Services (Eng),20505221,Menara 24,Ketua Kumpulan
+Saharzam Jamaluddin,5637,Unit Trust Operation & Record Admin,20505271,Menara 7,Associate
+Said Udin  Abd Talib,21610975,Facilities Management & General Services (Eng),20505221,PNB Darby Park,Pengurus II
+Saidin b. Soeeb,5555,Facilities Management & General Services,03-20505221,Menara B1,Ketua Kumpulan
+Saiffulizan Hassan,5441,Procurement,20505265,Menara 30,Associate Manager
+Saifolasri bin Mohd Dali,5843,Unit Trust Operation & Record Admin,NA,Menara 7,Manager
+Saifulaqlan bin Mat Jusoh,9773,Education,NA,Menara 38,Associate
+Saiyid Zainul bin Asri,6071,Education,06-7995099,Kolej Ilmu Kota Seriemas,Associate Manager
+Salbiah Abd Rahman,3106,Branch Management & Supervision,21618852,Balai 1,Juruwang
+Salehan bin Samausi,5430,HR Operations & Adminstration,20505300,Menara 35,Senior Clerk
+Salfarina Zainal Abidin,3101,Public Equity,21619470,Menara 6,Eksekutif I
+Salimi Mohd Salleh,3194,Investment Processing,21648604,Menara 23,Kerani\Jrtknik Ren.
+Salina@Suhaila Mohd Salleh,9730,Branch Management & Supervision,NA,Menara 8,Manager
+Salmah Abu,5525,Unit Trust Operation & Record Admin,20505225,Menara 8,Senior Associate
+Salmah Manan,320940173,General Office Serv.,NA,PNB Wisma TUNE,Pem. Penyelia Penyelenggara
+Salmiah Ahmad,5692,General Office Serv.,20505221,Menara 24,Pem. Penyelia Penyelenggara
+Saltina binti Salleh,5586,ASNB Accounts,20505273,Menara 37,Senior Accounts Clerk
+Salwani bt Abdul Rahman,3136,Risk Mngmt.,320759733,Menara 28,Senior Associate
+Samaon bin Hj Mohamed Akhir,NA,Facilities Management & General Services (Eng),NA,Stadium Merdeka,Juruteknik Rendah
+Sani b Zamuddin@Zainal Abidin,-,Human Capital Mgmt & Dev (Sumb Manusia & P'bgnn Modal Insan,NA,Secondment-PNB Commercial S\B,Senior Associate
+Sani Madon,5444,Facilities Management & General Services (Eng),NA,Bilik BAS,Juruteknik Rendah
+Sanirah bt Abdul Karim,20340812,Amanah Mutual Berhad,21625958,Menara 34,Associate
+Sarah binti Samsudin,9760,PNB Research Institute,NA,Menara 5,Analyst
+Sarah bt Shamsul Azhar,3185,Amanah Mutual Berhad,21625958,Menara 34,Associate Manager
+Sarifah Saripudin,6007\6027,Branch Management & Supervision,09-6235422,ASNB Kuala Terengganu,Kerani
+Sarifudin b Md Yusof,6091 \ 6092 \ 6093 \ 6095,Branch Management & Supervision,32813221,ASNB Kuala Selangor,Eksekutif I
+Sazali bin Ahmad,9668,Core Application Systems,03 20505685,Menara 32,Senior Manager
+Senen b. Ibrahim,6086,Branch Management & Supervision,03-88904890,ASNB Putrajaya,Eksekutif Kanan
+Setia 2,NA,PNB,NA,NA,NA
+Setihasna Mat Sarip,5865,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani
+Shadeah Champagne bt Mohd Ali,5896,Business Process and Innovation,20505870,Menara 28,Senior Associate
+Shafie Halim,5365,Real Estate Special Projects,20505221,Theatrette,Handyman
+Shah Rizal bin Zakaria,6071,Education,06-7995099,Kolej Ilmu,Warden
+Shaharin bin Sulaiman,3155,Technology Support Services,20573163,Menara 10,Manager
+Shahida Ahmad Shahrin,3082,Finance Department,20505880,Menara 29,Kerani Kanan
+Shahida binti Mustapha,3159,IT Service Management,20505685,Menara 33,Associate
+Shahlan b Khairudden,5666,Facilities Management & General Services (Eng),20505221,Menara UG,Chargeman
+Shahnaz Mohamed Yusof,5877,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Eksekutif II
+Shahril Nizam bin Maarof,3030,Human Capital Planning & Development,NA,Menara 35,personal Driver- Human Capital
+Shahrizal bin Ab. Aziz,5115,Unit Trust Operation & Record Admin,20505225,Menara 8,Senior Associate
+Shahrol Muhamat,5469,HR Operations & Adminstration,NA,Menara 35,Pembantu Perkhidmatan
+Shahrom bin Bajuri,5619,Sales & Channel Management,NA,Menara 25,Associate Manager
+Shahrudin bin Abdullah,5490\5474,Chairman's Office,NA,Balai 4,Office Boy
+Shairrulnizam Sahari,5473,Company Secretary,21633477,Menara 9,Pem. Pejabat\Operator
+Shamsiah Abdul Shukor,5192,Finance Department,20505880,Menara 29,Senior Manager
+Shamsiah binti Shahir,5697,Public Equity,NA,Menara 9,Assistant Vice President
+Sharidah  Hj Bujang,6004\6024,Branch Management & Supervision,62839940,ASNB Melaka,Ketua Juruwang
+Sharifah binti Mohd Nasir,9671,Core Application Systems,NA,Menara 32,Associate
+Sharifah Diyana Mohamad,3179,Amanah Mutual Berhad,03-21625958,Menara 34,Senior Associate
+Sharifah Liyana Fatihah,320241411,Corporate Planning & Strategy,NA,NA,Associate
+Sharifah Norazlin Syed Abidin,5605,Education,NA,Menara 38,Warden\Student Affair Executive
+Sharifah Roziadah Syed Ali,5464,Business Application Systems,20505685,Menara 33,Associate Manager
+Sharifah Salamah Naeema,3066,Risk Mngmt.,320759733,Menara 28,Senior Associate
+Sharifah Yaacob,6086\6089,Branch Management & Supervision,03-88904890,ASNB  Putrajaya,Juruwang Kanan
+Shariffuddin bin Abdullah,3079,ASNB Accounts,20505273,Menara 37,Accounts Clerk
+Sharul Fazli B. Ngah @ Ramli,6007,Branch Management & Supervision,09-6235422,ASNB Terengganu,Eksekutif II
+Sharulnizam Che Yem,5469,HR Operations & Adminstration,20505300,Menara 35,Office Boy
+Shazril bin Mazlan,3016,Private Investment & Special Projects,NA,Menara 23,Senior Manager
+Shirazah Abd Jabbar,6018,Unit Trust,NA,Kota Seriemas,Associate
+Shukri bin Ibrahim,5466,IT Service Management,20505685,Menara 33,Kerani Kanan
+Shurinah Abu Bakar,5539,Private Investment & Special Projects,21610963,Menara 23,Kerani Kanan
+Sime Darby Property Bhd,78448400,PNB,NA,Bukit Jelutong,Guthrie and Golden Hope
+Siti Aishah Abd Aziz,9648,Unit Trust Operation & Record Admin,20505225,Menara 8,Associate
+Siti Aishah binti Abdol Karim,5534,HR Operations & Adminstration,20305300,Menara 35,Senior Associate
+Siti Aishah Mohd Ali,3141,ASNB Accounts,20505273,Menara 37,Senior Manager
+Siti Amirah binti Suhaimi,9712,Unit Trust Strategy & Product Management Dpt. ASNB,321610082,Menara 25,Associate
+Siti Asmah Abd Hamid,5485,Chairman's Office,03 21614227,Balai 4,Associate
+Siti Azuna bt Abdul Manaf,9664,Compliance Dept.,NA,Menara 26,Associate
+Siti Faridah Ismail,6007\6027,Branch Management & Supervision,96235422,ASNB Terengganu,Juruwang
+Siti Fatin Amira bt Mohd Nawi,5244,Sales & Channel Management,NA,Menara 25,Associate
+Siti Fazliana binti Aladdin,9722,IT Service Management,NA,Menara 33,Associate
+Siti Hadith Nur bt Zolkiffly,3054,Compliance Dept.,20505746,Menara 26,Associate
+Siti Haidah Mohamad Yusub,5288,ASNB Accounts,20505273,Menara 37,Senior Accounts Clerk
+Siti Hajar Aishah binti Alias,3007,Facilities Management & General Services,NA,Menara 24,Associate
+Siti Hajar Bt Abdul Karim,6128\6129,Branch Management & Supervision,07 2370077,ASNB Johor Bharu,Associate
+Siti Haslindah Ali Omar,6013,Branch Management & Supervision,084-322497,ASNB Sibu,Eks. II
+Siti Hawa Zainuddin,6091 \ 6092,Branch Management & Supervision,32813221,ASNB Kuala Selangor,Eksekutif I
+Siti Khadijah binti Che Umar,5798,Human Capital Planning & Development,NA,Menara 36,Executive (Kontrak)
+Siti Khatijah Syarina,5310,Human Capital Planning & Development,NA,Menara 36,Eksekutif
+Siti Liyana binti Sheikh Yahya,3169,Fund Management,03 21629335,Menara 16,Manager
+Siti Maimunah Mohamed Dahlan,5242,Agent Management & Cust. Relations Dept. ASNB,320505220,UG Balai,Executive
+Siti Mardziah Mohd Yusoff,03-20340858,Amanah Mutual Berhad,21615958,Menara 34,Senior Associate
+Siti Nadira binti Mohd Kassim,5668,Office Of President & GCEO,NA,Balai 3,Associate Manager
+Siti Nazirah binti Mohd Khalid,5397,HR Operations & Adminstration,03 20505300,Menara 35,Associate
+Siti Nor Aishah bt Norizan,5272,Agent Management & Cust. Relations Dept. ASNB,320505220,UG Balai,Pembantu Khidmat Pelanggan
+Siti Norafaedah Sandi,6011,Branch Management & Supervision,082-250313,ASNB Kuching,Kerani\Jrtknik Ren.
+Siti Norilah Bt Shamsul Bahri,5307,Marketing & Financial Literacy Department ASNB,03 20505164,Menara 7,Naib Presiden
+Siti Norizan Mohd Hussain,5187,Fund Management,21611075,Menara 16,Kerani Kanan
+Siti Nurul Amira binti Ghazali,9711,PNB Research Institute,03 20505233,Menara 5,Analyst
+Siti Radziah Yusoff,6006,Branch Management & Supervision,09-7446663,ASNB Kota Bharu,Executive
+Siti Rahayu Majit,5590,Procurement,20505265,Menara 30,Associate
+Siti Rahmah b.ti Hj. Samad,5555,Facilities Management & General Services,03-20505221,Menara B1,Pngwl. Keslamtn\Pmndu.
+Siti Ramlah Abd Razak,5472,Agent Management & Cust. Relations Dept. ASNB,20505220,Balai UG,Kerani\Jrtknik Ren.
+Siti Rodziah Sukarman,6003,Branch Management & Supervision,06-7633384,ASNB Seremban,Kerani\Jrtknik Ren.
+Siti Rolhaya binti Harun,5573,ASNB Accounts,20505273,Menara 37,Associate
+Siti Rozita bt Kassim,6004\6024,Branch Management & Supervision,06-2839940,ASNB Melaka,Eksekutif I
+Siti Sakinah bt Shikh Nordin,5247,Unit Trust,NA,Menara 7,Associate-Unit Trust Operation&Method
+Siti Salwa bt Tamsis,5630,HR Operations & Adminstration,NA,UG Balai,Pembantu Pentadbiran
+Siti Sarah Mohamad Aslan,-,Sales & Channel Management,NA,Menara 25,Associate
+Siti Syadratul A'lya Samsudin,9653,Sales & Channel Management,NA,Menara 25,Assosiate
+Siti Zalina binti Jailani,5392,Compliance Dept.,NA,Menara 26,Senior Manager
+Siti Zuraidah Kassim,5110,Agent Management & Cust. Relations Dept. ASNB,03-20505220,UG Balai,Associate
+SJMC,46341212,PNB,NA,NA,NA
+SL1M,9751,PNB Value Homes,NA,Menara 3,NA
+Sofiah Losiun@Laisiun,6009,Branch Management & Supervision,088 218814,ASNB Kota Kinabalu,Associate Kanan
+Sohaini b. Nusi,5555,Facilities Management & General Services,20505221,Menara B1,Penyelia Keselamatan
+SPO,5717,Unit Trust,20505225,Menara 8,Kerani\Jrtknik Ren.
+SPPK,03-20943888,PNB,NA,NA,NA
+Stadium Merdeka,20342693,PNB,NA,NA,NA
+Sudin bin Samad,3177,Amanah Mutual Berhad,21625958,Menara 34,Senior Manager
+Sufiah binti Samsuddin,5306,International,21611075,Menara 16,Associate
+Sufian Suhaili,6013,Branch Management & Supervision,084-322497,ASNB Sibu,Kerani
+Suhadawati Kamaruzaman,5630,HR Operations & Adminstration,20505220,Balai UG,Pem. Pejabat\Operator Telefon
+Suhaida Mohammad Said,5554,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani Kanan
+Suhaila binti Ibrahim,5600,Education,20505845,Menara 38,Associate Manager
+Suhailah binti Zakaria,20340811,Amanah Mutual Berhad,03-21625958,Menara 34,Associate Manager
+Suhaili binti Aris,5105,Marketing & Financial Literacy Department ASNB,21618852,Menara 7,Senior Associate
+Suhaimi b. Mohamed,5475,HR Operations & Adminstration,NA,Menara 35,Pembantu Perkhidmatan
+Suhaimi Hussein,5447,Procurement,20505265,Menara 30,Senior Manager
+Suhaini binti Abd Rahman,5800,Fund Management,21629335,Menara 16,Assistant Vice President
+Suhainy Sulaiman,6001\6021,Branch Management & Supervision,04-3994404,ASNB Butterworth,Juruwang
+Suhairul Azam Mohd Shamsuddin,5597,Finance Department,20505880,Menara 29,Senior Associate
+Suhana Hj  Ashari,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Suhana Suaib,6015,Branch Management & Supervision,089-776600,ASNB Tawau,Eks. II
+Suhanis Abdul Malek,6008,Branch Management & Supervision,07-2232533,ASNB Caw. Johor,Eksekutif I
+Suhardi Ahmad,6000 \ 6020,Branch Management & Supervision,04-7314140,ASNB Alor Setar Kedah,Ketua Juruwang
+Sukeri Mohd,6007\6027,Branch Management & Supervision,09-6235422,ASNB Kuala Terengganu,Eksekutif II
+Suleiman Mohd Tahir,5643,Unit Trust,20505271,Menara 8,Senior Clerk
+Sumaiyah binti Kamaruddin,5243,Agent Management & Cust. Relations Dept. ASNB,20505220,Balai UG,Associate
+Suraya binti Ismail,5146,Equity Market Operations,21613622,Menara 17,Kerani Kanan
+Suraya bt Ahmad Ramdzan,5366,Real Estate Special Projects,03-20505221,Menara 24,Manager
+Suraya Ismail @ Hashim,9735,Branch Management & Supervision,NA,Menara 8,Senior Associate
+Surayah binti Mohamed Kassim,5528,Business Solution Department,20505790,Menara 25,Kerani
+Sureaty Ismail,3186,Business Application Systems,20505685,Menara 33,Associate
+Suria binti Johari,5781,ASNB Accounts,20505273,Menara 37,Associate
+SURIA BUSS,74949888,PNB,NA,NA,NA
+Suriani Abdul Samad,6081\6082,Branch Management & Supervision,NA,ASNB Shah Alam,Associate Manager
+Suriani binti Ropie,5154,Fixed Income,21613622,Menara 17,Senior Associate
+Suriati binti Mahmood,5235,Compliance Dept.,20505746,Menara 26,Kerani
+Surya Fizuni Ahmad,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Suryati Salleh,6007,Branch Management & Supervision,09-6235422,ASNB Kuala Terengganu,Kerani Kanan\Steno.
+Susan Ulau Emang,6012,Branch Management & Supervision,085-423384,ASNB Miri,Eksekutif II
+SUTL,02-65323761,PNB,NA,NA,NA
+Suzana,9771,Heitech Padu,NA,Menara 32,NA
+Suzana bin Ibrahim,5612,Communications,20505268,Menara 4,Manager
+Suzana binti Ahmad,5807,Risk Mngmt.,320759733,Menara 28,Ketua Pegawai Risiko
+Suzana bt Ahmad,5636,Branch Management & Supervision,21618852,Balai 1,Senior Cashier
+Suzana Napi,NA,Branch Management & Supervision,NA,ASNB Miri,Eksekutif II
+Suzila binti Arisah,6009\6029,Branch Management & Supervision,088-218814,ASNB Kota Kinabalu,Juruwang
+Suziliana Zainal,6004\6024,Branch Management & Supervision,06-2839940,ASNB Melaka,Eksekutif Kanan
+Suzita bt Abd Aziz,9669,Core Application Systems,NA,Menara 32,Associate Kanan
+Syahariah Sajuri,3160,Technology Support Services,20573163,Menara 10,Associate Manager
+Syahrir Mohd Zeni,5278,Unit Trust,20505271,Menara 8,Senior Associate
+Syahrom bin Jumali,9645,PNB Research Institute,NA,Menara 5,Senior Associate
+Syarifah binti Kassim,5499,Asset Management,NA,Menara 17,Vice President
+Syarifah Juraini Syed Ahmad,5851,Public Equity,NA,Menara 9,Senior Analyst
+Syariza binti Ghazali,5391,Fund Management,03 21629335,Menara 17,Assistant Vice President
+Syed Alwee b Syed Abd Kadir,5180,PNB Merdeka Ventures Sdn Bhd,20505221,Site office 118,Assistant Engineering Manager-0392127007
+Syed Shaharudin Syed Abdullah,5396,Risk Mngmt.,320759733,Menara 28,Senior Manager
+Syeril Suhaira bt Rashid,9654,Sales & Channel Management,NA,Menara 25,Assosiate
+Synergi Drive,26914122,PNB,NA,Jln Raja Laut - HQ,NA
+Tan Say Hoo,5420,Investment Analysis,NA,Menara 18,Manager
+Tan Sri,7600,Office Of President & GCEO,21629310,Balai 3,President & GCEO
+Tan Sri Abdul Wahid Omar,7489,Chairman's Office,NA,Balai 4,Chairman
+Tante Josarina Tajul Ariffin,5324,Education,NA,Menara 38,Pengurus
+Taufik bin Taha,9729,Branch Management & Supervision,NA,Menara 8,Manager
+Tazaruddin Mohd Yusoff,5555,Facilities Management & General Services,20505221,Menara B1,Pengawal Keselamatan (Kontrak)
+Tengku Abdul Aziz Tgku Mahmud,5652,PNB Merdeka Ventures Sdn Bhd,20505221,Menara 19,Ketua Pegawai Eksekutif
+Tengku Hanis Adleen,5740,International,NA,Menara 16,NA
+Tengku Noor Hisham Tuan Hamid,5609,PNB Value Homes,NA,Menara 3,Senior Manager
+Thean Siew Mun,5854,Communications,03-20505268,4 Menara,Associate
+Theatrette (Dalam),5237,Facilities Management & General Services,NA,Menara 2,NA
+Theatrette (Luar),5210,Facilities Management & General Services,NA,Menara 2,NA
+Titan Chemicals Corp. Bhd,20934222,PNB,NA,NA,NA
+Tuan Pa bin Tuan Man,5555,Facilities Management & General Services,NA,NA,Pengawal Keselamatan (Kontrak)
+Tun Abdull Mutalib Tun Hassan,5491,Property\Real Estate,NA,Secondment PNB Commercial,Naib Presiden
+Tun Mohd Afindi Yusoff,20940173,Facilities Management & General Services (Eng),20945715,PNB Damansara,Kerani
+Umi Nadzirah bt Rosli,6018,Unit Trust,06-7990969,ASNB KOTA SERIMAS,Kerani
+Vacant,5433,Compliance Dept.,NA,Menara 26,NA
+Vacant,5889,Investment Division,20505224,Menara 17,NA
+Vacant,5830,Office Of President & GCEO,20505772,Menara 9,NA
+Vacant,5139,Marketing & Financial Literacy Department ASNB,20505263,Menara 8,NA
+Vacant,5679,Compliance Dept.,20505746,Menara 26,NA
+Valerie Graceline Ligadu,6010\6030,Branch Management & Supervision,089-210597,ASNB Sandakan,Ketua Juruwang
+Wahyudin Mohd Tayid@Taib,9615,Unit Trust Operation & Record Admin,20505271,Menara 8,Associate
+Wan Ahmad Asmadi,3043,Chairman's Office,NA,Balai 4,Vice President
+Wan Amir Shafiq bin Ab Nasir,5476,Shariah Management,03 20505678,Menara 38,Associate
+Wan Anizamuni bt Wan Jusoh,6081\6082,Branch Management & Supervision,55137155,ASNB Shah Alam,Juruwang Kanan
+Wan Gayah binti Wan Chik,3051,Strategic Investments,NA,Menara 9,Associate
+Wan Hairil Azuan b Abdul Satar,6006\6026,Branch Management & Supervision,09-7446663,ASNB Kota Bharu,Kerani
+Wan Hazizi b Wan Mustafa,5537,Real Estate Special Projects,NA,Menara 24,Associate Manager
+Wan Jamilah Wan Omar,5804,Education,20505845,Menara 38,Assistant Vice President
+Wan Munirah Wan Abdul Rahman,3046,Finance Department,20505880,Menara 29,Senior Manager
+Wan Nafisah Ibrahim,5725,Pelaburan Hartanah Nasional Berhad,20505878,Menara 31,Eksekutif I
+Wan Nazaruddin Wan Nawang,6005\6025,Branch Management & Supervision,95136694,ASNB Kuantan,NA
+Wan Noor Azrim bt Wan Zawawi,9762,Investment Analysis,NA,Menara 18,Analyst
+Wan Noraizah Wan Ab Rahman,5741,Real Estate Special Projects,20505221,Menara 24,Manager
+Wan Norhayati Wan Jaafar,5713,HR Operations & Adminstration,20505300,Menara 35,Associate Manager
+Wan Normunirah bt Wan Ruslan,9699,Unit Trust Operation & Record Admin,NA,Menara 7,Associate-sijil
+Wan Rahimin Wan Mohammad,5113,Branch Management & Supervision,21618852,Balai 1,Ketua Juruwang
+Wan Roshaimi bin Wan Abdullah,9776,IT Security,NA,Menara 33,Vice President Head of IT Security
+Wan Shahriah Wan Mohd Radzi,5498,Company Secretary,21633477,Menara 9,Eksekutif I
+Waris bin Thabat,5444,Facilities Management & General Services (Eng),20505221,Menara UG,Juruteknik Rendah
+Wilson Sadah,6009,Branch Management & Supervision,088-218814,ASNB Kota Kinabalu,Eks. II
+Wisma KPMG,2094 7398,PNB,NA,NA,NA
+Y.M.Tengku Aisha Fateha,5369,Public Equity,NA,Menara 9,Analyst
+Yahya bin A Shukor,3094,Investment Analysis,20505224,Menara 18,Senior Analyst
+Yang Najihah bt Md. Yazam,9646,Communications,20505268,Menara 4,Associate
+Yasir bin Shukur,5455,Financial & Mgmt Audit,20505264,Menara 26,Assistant Vice President
+Yau Teck Kiong @ Micheal,6010\6030,Branch Management & Supervision,089-210597,ASNB Sandakan,Eksekutif I
+Yitzhak Baharom,6119\6120,Branch Management & Supervision,NA,ASNB Temerloh,Pengurus Cawangan
+YM Raja Faizal Raja Ngah,5444,Facilities Management & General Services (Eng),20505221,Menara UG,Juruteknik
+YM Raja Nazirin Shah,1,PNB Merdeka Ventures Sdn Bhd,NA,Menara 19,Vice President
+Yusaini bin Yasep,5584,ASNB Accounts,20505273,Menara 37,Senior Accounts Clerk
+Yusairee bin Yunus,5526,Unit Trust Operation & Record Admin,20505271,Menara 7,Kerani Kanan
+Yusitah Ramli,5490,Chairman's Office,21614227,Balai 4,Kerani Kanan\Steno.
+Yusliana Samsuri,5509,Finance Department,20505880,Menara 29,Eksekutif I
+Yuslita binti Md Yusof,5481,Unit Trust Strategy & Product Management Dpt. ASNB,20610082,Menara 25,Assistant Vice President
+Yusniza Yusoff,5694,Domestic & International Properties,20505221,Menara 24,Associate Manager
+Yusnizar binti Abu Bakar,20340828,Amanah Mutual Berhad,21625985,Menara 34,Senior Associate
+Yusof Haron,5444,Facilities Management & General Services (Eng),20505221,Menara 24,Juruteknik
+Yusoff b Mat Idris,5555,Facilities Management & General Services,20505221,Menara B1,Pengawal (Kontrak)
+Yusri Izzudin bin Jaafar,5484,Legal Dept.,20505750,Secondment to PROLINTAS,Assistant Vice President
+Yuzairi bin Yussof,5571,Real Estate Special Projects,20505221,Menara 24,Vice President
+Zabariah Sohot,5512,Procurement,20505265,Menara 30,Associate
+Zabedah binti Hussin,392127017,PNB Merdeka Ventures Sdn Bhd,NA,Site office 118,Kerani
+Zafri Zaki Hj Ahmad,3119,Communications,NA,Menara 4,Associate
+Zahara binti Mohd Amin,20340824\5751,Amanah Mutual Berhad,21633212,Menara 34,Associate Manager
+Zaharin bin A. Zabri,320241429,Branch Management & Supervision,NA,Menara 8,Associate
+Zaharin Haron,20921553,Facilities Management & General Services (Eng),20945715,PNB Damansara,Supervisor
+Zaheed Rithdwan B Ahmad Zamri,5281,Branch Management & Supervision,20505263,Kaunter Utama,Associate
+Zaidah Ibrahim,5508,Branch Management & Supervision,20505263,Menara 8,Stenographer
+Zaidi bin Buduan,20921553,Facilities Management & General Services (Eng),20945715,PNB Damansara & Setia 2,Junior Technician
+Zaihasra binti Ainuddin,20340833,Amanah Mutual Berhad,21625958,Menara 34,Senior Associate
+Zailani bin Surip,5104,Branch Management & Supervision,20505263,Menara 8,Associate
+Zaimah binti Abbas,5151,Marketing & Financial Literacy Department ASNB,NA,Menara 7,Associate
+Zainal Abidin Ishak,3156,IT Service Management,20573163,Menara 10,Junior Technician
+Zainal Halim Haji Muhamad Zain,5440,Education,03-20505845,Menara 38,Associate
+Zainal Molupin,NA,Branch Management & Supervision,087-336619,ASNB Keningau,Ketua Pejabat
+Zainalabidin Hj Idris,9627,Communications,20505268,Menara 4,Kerani
+Zaini B Shariff,6101 \ 6102 \ 6103,Branch Management & Supervision,07-43317112,ASNB Batu Pahat,Eksekutif I
+Zainuddin bin Busrah,3069,Communications,20505268,Menara 4,Senior Asociate
+Zainun Nordin,3080,Branch Management & Supervision,21618852,Balai 1,Juruwang
+Zairina binti Mohd Shahrin,5630,HR Operations & Adminstration,NA,UG Balai,Admin Assistant
+Zaitun Yeop Ismail,5815,IT Service Management,20573163,Menara 33,Associate Manager
+Zakaria bin Abu Bakar,3106,Branch Management & Supervision,21618852,Balai 1,Juruwang
+Zaki Fadhil bin Azizan,320241430,Shariah Management,NA,Menara 38,Associate
+Zakiah Mohd Jaimon,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Zalha Muhamad@Madon,5486,Facilities Management & General Services (Eng),20505221,PNB Darby Park,Kerani\Jrtknik Ren.
+Zalina binti Itam,5383,IT Architecture And Strategy,NA,Menara 32,Naib Presiden
+Zalman bin Zainal,55121366,Branch Management & Supervision,03-55137155,ASNB Shah Alam,Eksekutif II
+Zamani bin Abdullah,5356,Education,20505845,Menara 38,Vice President
+Zamilah binti Sulaiman,5809,Financial & Mgmt Audit,20505264,Menara 26,Senior Associate
+Zamin Akbar Kamarol Arifin,5654,Unit Trust Operation & Record Admin,20505271,Menara 8,Kerani
+Zamri bin Musa,6005\6025,Branch Management & Supervision,NA,ASNB Kuantan,Pengurus Cawangan
+Zanariah Omar,6003,Branch Management & Supervision,06-7633384,ASNB Seremban,Juruwang
+Zarina Abdul Muttalip,5437,Financial & Mgmt Audit,20505264,Menara 26,Senior Associate
+Zarina Abdullah,6002 \ 6022,Branch Management & Supervision,05-2555506,ASNB Ipoh,Kerani\Jrtknik Ren.
+Zatayumni binti  Zulkiply,5286,Fund Management,03 21629335,Menara 16,Manager
+Zatiah Amin,5763,Unit Trust,20505225,Menara 8,Kerani Kanan\Steno.
+Zatul-Iffah binti Hussin,5358,Branch Management & Supervision,20505164,Kaunter Hibah,Associate Manager
+Zerina Begum Yusof,5633,Corporate Services,21619470,Menara 6,Pengurus
+Zeti Akhtar Abdul Rahman,5319,Domestic & International Properties,NA,Menara 24,Pengurus Kanan
+Zetty Marzila Fadhillah Abdull,5832,Human Capital Planning & Development,20505270,Menara 36,Senior Associate
+Zhafri Aizat bin Zainal,5897,Investment Analysis,20505224,Menara 18,Analyst
+Zilfarina bt Abdul Aziz,3181,Amanah Mutual Berhad,21625958,Menara 34,Associate
+Zool Fazly Mohamad,6011\6031,Branch Management & Supervision,NA,ASNB Kuching,Associate Kanan
+Zubydah binti Hamzah,20340880,Amanah Mutual Berhad,NA,Menara 34,Associate Manager
+Zukri  Mohd Zain,5486,Facilities Management & General Services (Eng),20505221,PNB Darby Park,Jrtknik
+Zulaikha Kusin,6012,Branch Management & Supervision,085-423384,ASNB Miri,Juruwang
+Zulfiella Huzairi b Zulkhifli,3137,Business Process and Innovation,320759733,Menara 28,Associate
+Zulkafli bin Hamid,5640,Compliance Dept.,205052746,Menara 26,Naib Presiden
+Zulkarnain Mohd Nazir,5580,ASNB Accounts,20505273,Menara 37,Kerani Kanan
+Zulkarnain Muhamad Hussin,5474,Chairman's Office,21614227,Balai 4,NA
+Zulkarnain Shah Alladin,5423,Public Equity,21619470,Menara 6,Eksekutif I
+Zulkefli Mohammad,6018 \ 06-7990868,Record Management (KOTA SERIEMAS),06-7990969,ASNB KOTASERIMAS,NA
+Zulkepli B Rashid,5555,Facilities Management & General Services,20505221,Menara B1,Pengawal (Kontrak)
+Zulkepli bin Jaafar,9667,Core Application Systems,03 20505685,Menara 32,Assistant Vice President
+Zulkifle Ahmad,6004,Branch Management & Supervision,06-2839940,ASNB Melaka,Kerani\Jrtknik Ren.
+Zulkifli bin Ismail,5136,Corporate Planning & Strategy,03 20505772,Menara 9,Associate Manager
+Zuraidah binti Othman,5355,Property\Real Estate,20505752,Menara 24,Kerani Kanan\Steno.
+Zuraidah Zainal Abidin,3105,Compliance Dept.,20505746,Menara 26,Associate Kanan
+Zuraini Ahmad@Aini,5444,Facilities Management & General Services (Eng),20505221,Menara UG,Jrtknik
+Zuraini binti Mohamad,3174,Business Process and Innovation,320759733,Menara 28,Executive
+Zurina binti Baharudin,20340854,Amanah Mutual Berhad,321625958,Menara 34,Associate
+Zuriyanti Muhamad Zaki,5179,Unit Trust,NA,Menara 25,Eksekutif- Operasi ASNB
+Zuwita binti Ibrahim,20340845,Amanah Mutual Berhad,03-21625958,Menara 34,Manager
+,,,,,
+,,,,,
+Sakinah Abdul Malik,3001,Public Equity,NA,Menara 9,Analyst
+Suria binti Hamzah,0320241470,IT Business Analyst,,Menara 33,Manager
+Sofia binti Zainal Aabidin,0320241471,IT Business Analyst,,Menara 33,Associate Manager
+Fatimah binti Mohamad Yunus,0320241469,Business Application Systems,,Menara 33,Senior Associate
+Hasya Fariha binti Hamzah,5814,IT Service Management,,Menara 33,Associate
+Tarmizi bin Samah,5226,Core Application Systems,,Menara 32,Associate Manager
+Nurkhaledah binti Othman,0320241468,Core Application System,,Menara 32,Associate
+,,,,,
+Wydaa binti Abdul Rahman,9682,Core Application Systems,,Menara 32,Senior Associate
+Mohd Syurahbil bim Maluin,0320241436,Core Application Systems,,Menara 32,Senior Associate
+,,,,,
+Nur Izzati Farhah binti Aziz,3003,Core Application Systems,,Menara 32,Associate
+Nurul Farrah Dina binti binti Abdul Wahid,9685,Core Application Systems,,Menara 32,Associate
+Muhammad Nur Faiztullah bin Mohd Hazani,9726,Core Application Systems,,Menara 32,Associate
+Mohd Qusyairi bin Ahmad Senusi,0320241437,Core Application Systems,,Menara 32,Associate Manager
+Nor Hidayah binti Shahrudin,0320241482,Core Application Systems,,Menara 32,Associate
+"Mohamad Ashraf Syamim bin Shahrul Anuar,0320241483,""Core Application Systems",,,,,
+,,Menara 32,Associate,,
+,,,,,
+Kamaezanaznur bin Rosli,9701,IT Architecture And Strategy,,Menara 32,Associate
+UTC Selangor,,Shah Alam Seksyen 14,,,
+Atikah Adam Tong,3165,Fund Management,,Menara 16,Associate
+Mohd Shazrul Hakimi bin Ahmad Shukri,5104,Branch Management & Supervision,,Menara 8,Associate
+Puteri Nursyifa binti Megat Amiruddin,9721,Investment Analysis,,Menara 18,Analyst
+Ain Zubaidah binti Zulkifli,9727,PNB Merdeka Venture,,Menara 19,Senior Associate
+Mohamad Akmal bin Nasruddin,9734,Unit Trust Operations & Record Administration,,Menara 8,Associate
+Lailatul Fahmi bin Abu Bakar,0320241473,Branch Management & Supervision,,Kaunter Utama 1 Balai,Associate
+Nur Salam bin Mohd Sanee,0320241474,Branch Management& Supervision,,Kaunter Utama 1 Balai,Operations and Service Assistant 
+Muhammad Faris Aizuddin bin Muhd Harith,0320241472,Investment Analysis,,Menara 18,Associate Manager
+Leia Natasha Rizkin binti Mohamed Ghazali,0320241466,PNB Research Institute Sdn. Bhd,,Menara 5,Associate
+Mohd Faiz Ahmad Nazlan,0320241477,Public Equity,,Menara 9,Attachment from Sime Darby
+Mohd Ashraf (Kontrak UIA),0320241484,HR Operations & Administration,,Menra 35,

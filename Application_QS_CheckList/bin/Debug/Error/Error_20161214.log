@@ -1,0 +1,22 @@
+2016-12-14 16:00:56 =>	[[P00:F00]:H00:F00]ERROR MESSAGE:Configuration system failed to initialize
+STACK TRACE:   at System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   at System.Configuration.ClientConfigurationSystem.PrepareClientConfigSystem(String sectionName)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.PrivilegedConfigurationManager.GetSection(String sectionName)
+   at System.Diagnostics.DiagnosticsConfiguration.GetConfigSection()
+   at System.Diagnostics.DiagnosticsConfiguration.Initialize()
+   at System.Diagnostics.DiagnosticsConfiguration.get_SwitchSettings()
+   at System.Diagnostics.Switch.InitializeConfigSettings()
+   at System.Diagnostics.Switch.InitializeWithStatus()
+   at System.Diagnostics.Switch.get_SwitchSetting()
+   at System.Xml.Serialization.TempAssembly.LoadGeneratedAssembly(Type type, String defaultNamespace, XmlSerializerImplementation& contract)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   at Application_QS_CheckList.Helper.ConfigHelper.Construct(String ParentCode) in c:\Users\brightson\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\Helper\ConfigHelper.cs:line 39
+
+2016-12-14 16:01:59 =>	[[P00:F00]:H00:F00]ERROR MESSAGE:Value cannot be null.
+Parameter name: path
+STACK TRACE:   at System.IO.Directory.CreateDirectory(String path)
+   at Application_QS_CheckList.Helper.ConfigHelper.Construct(String ParentCode) in c:\Users\brightson\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\Helper\ConfigHelper.cs:line 50
+

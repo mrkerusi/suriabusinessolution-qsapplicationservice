@@ -1,0 +1,316 @@
+<job id="ViewInstalledLicenses">
+   <script language="VBScript">
+
+      '  ----------------------------------------------------------------------------
+      '  Copyright (C) 2002 Ericsson Enterprise AB, Sweden
+      '
+      '  The Copyright to the computer program herein is the property of
+      '  Ericsson Enterprise AB, Sweden. The program may be
+      '  used and/or copied only with the written permission from Ericsson
+      '  Enterprise AB or in accordance with the terms and
+      '  conditions stipulated in the agreement Contract under which the
+      '  program have been supplied.  Use of copyright notice is pre-
+      '  cautionary only and does not imply publication or disclosure.
+      '  ----------------------------------------------------------------------------
+
+      ' This script is best viewed using the CScript engine. If not, each license will be displayed
+      ' in it's own message box.
+      ' Either register cscript engine as default using 'cscript //H:CScript'
+      ' or call the script using 'cscript ViewInstalledLicenses.vbs'
+
+      On Error Resume Next
+
+      Dim productHeading, underlineText, generalHeading, subHeading
+      Dim outputText, errorText 
+      Dim manager, license
+      Dim managerDate, managerCustomer, managerDistributor, managerSystemId, managerCount
+      Dim licenseClass, licenseExpiresAfter, licenseExpiresOn, licenseHasExpired, licenseDaysRemaining 
+      Dim licenseInformation, licenseName, licenseLimit, licenseProduct, licenseType
+      Dim emergencyLimit, emergencyExpires
+      Dim regObj, clientHost, serverHost, serverHeading, clientHeading
+
+      ' -------------------------------------------------------------
+      ' When started on 64-bit systems, we need to re-launch using the 32-bit version of
+      ' cscript.exe that is located in the C:\Windows\SysWOW64\ folder.
+      Dim objShell, objFSO, script32, objArgs, strArg, argString, isCscript
+      Set objShell = CreateObject("WScript.Shell")
+      Set objFSO = CreateObject("Scripting.FileSystemObject")
+      isCscript = 0
+
+      If Instr(1, WScript.FullName, "CScript", vbTextCompare) <> 0 Then
+            script32 = objShell.ExpandEnvironmentStrings("%SystemRoot%\syswow64\cscript.exe")
+	    isCscript = 1
+      Else
+            script32 = objShell.ExpandEnvironmentStrings("%SystemRoot%\syswow64\wscript.exe")
+      End If
+
+      If objFSO.FileExists(script32) Then
+            If Not UCase(WScript.FullName) = UCase(script32) Then
+                  Set objArgs = WScript.Arguments
+	    
+                  For Each strArg in objArgs
+                      argString = argString & strArg & " "
+                  Next 
+		  
+		  If Len(argString) > 0 Then
+			argString = """ """ & argString
+		  End If
+		  
+		  If isCscript = 1 Then
+                        objShell.Run "cmd.exe /c """"" & script32 & """ """ & WScript.ScriptFullName & argString & """""&&pause", 1, False
+		  Else
+                        objShell.Run """" & script32 & """ """ & WScript.ScriptFullName & argString & """", 1, False
+                  End If
+                  WScript.Quit
+            End If
+      End If
+      ' -------------------------------------------------------------
+      
+      Set regObj = WScript.CreateObject("WScript.Shell")
+      clientHost = regObj.RegRead("HKLM\SYSTEM\CurrentControlSet\Control\ComputerName\ActiveComputerName\ComputerName")
+      serverHost = regObj.RegRead("HKLM\SOFTWARE\Ericsson\License Manager\Server")
+      if Trim(serverHost) = "127.0.0.1" then
+         serverHost = regObj.RegRead("HKLM\SYSTEM\CurrentControlSet\Control\ComputerName\ActiveComputerName\ComputerName")
+      end if
+      Set regObj = Nothing
+
+      productHeading      = "Enterprise License Manager"
+      underlineText       = "=================================================================="
+      serverHeading       = "                                                   Server = "
+      clientHeading       = "                                                   Client = "
+      generalHeading      = "General Information"
+      Wscript.Echo vbCRLF & productHeading & vbCRLF & serverHeading & serverHost & vbCRLF & clientHeading & clientHost &vbCRLF & vbCRLF
+      'Wscript.Echo outputText 
+
+      Set manager = CreateObject("ELicense.Manager")
+
+      If Not IsObject(manager) Then
+         If checkForError() > 0 Then
+            Wscript.Echo errorText
+         End If
+
+      Else
+         If getCommonData() = 0 Then
+
+            outputText =                        generalHeading 
+            outputText = outputText & vbCRLF &  Left(underlineText, Len(generalHeading)) 
+            outputText = outputText & vbCRLF & "License Date Generation:  "               & managerDate
+            outputText = outputText & vbCRLF & "Customer:                 "               & managerCustomer
+            outputText = outputText & vbCRLF & "Distributor:              "               & managerDistributor
+            outputText = outputText & vbCRLF & "Ericsson Customer ID:     "               & managerSystemId
+            outputText = outputText & vbCRLF & vbCRLF
+
+ 
+            subHeading  = "Number of Installed Licenses : " & managerCount
+
+            outputText = outputText & vbCRLF & vbCRLF & subHeading & vbCRLF 
+            outputText = outputText & Left(underlineText, Len(subHeading)) & vbCRLF
+
+            If managerCount = 0 Then
+               Wscript.Echo "There are no licenses installed."
+            End If
+
+            For Each license in manager
+	       If getLicenseData() = 0 Then
+
+                  outputText = outputText & "Name           :  " & licenseName & vbCRLF 
+                  outputText = outputText & "Quantity       :  " & licenseLimit 
+                  if emergencyLimit > 0 then
+                     outputText = outputText & "   (" & emergencyLimit
+                     if emergencyLimit > 1 then 
+                        outputText = outputText & " are emergency licenses)"
+                     else
+                        outputText = outputText & " is emergency license)"
+                     end if
+                  end if
+ 
+                  outputText = outputText & vbCRLF & "Expiration     :  "
+
+                  If licenseDaysRemaining = -1 Then 
+                     outputText = outputText & "No Expiration, " & licenseHasExpired  
+                 
+                  ElseIf Len(licenseExpiresAfter) > 0 Then
+                     outputText = outputText & licenseDaysRemaining & " Day(s), " & licenseHasExpired            
+                  ElseIf Len(licenseExpiresOn) > 0 Then
+                     outputText = outputText & licenseExpiresOn & ", " & licenseHasExpired             
+            
+                  End If
+                  if emergencyLimit > 0 then
+                     outputText = outputText & "   (Emergency licenses expires on " & emergencyExpires & ")"
+                  end if
+                  outputText = outputText & vbCRLF
+ 
+                  outputText = outputText & "Product number :  " & licenseProduct & vbCRLF 
+                  outputText = outputText & "License type   :  " & licenseType & vbCRLF 
+                  outputText = outputText & "License class  :  " & licenseClass 
+                  if emergencyLimit > 0 then
+                     if licenseClass = "permanent" then
+                        outputText = outputText & "+emergency"
+                     end if
+                  end if  
+                  outputText = outputText & vbCRLF
+
+                  outputText = outputText & "Information    :  " & licenseInformation & vbCRLF
+                  Wscript.Echo outputText 
+                  outputText = ""
+               Else
+                  Wscript.Echo errorText 
+                  Err.Clear
+                  Exit For
+
+               End If
+            Next
+
+         Else
+            If checkForError() > 0 Then
+               Wscript.Echo errorText
+            End If
+
+         End If
+      End If 
+
+      Wscript.Echo vbCRLF & "For best viewing, register CScript engine as default using 'cscript //H:CScript' " & vbCR & "or call the script by 'cscript " & Wscript.Scriptname & "'" & vbCRLF
+
+
+      '------------------------------------------------------------------------------------
+      Function getCommonData()
+
+         On Error Resume Next
+
+         managerDate         = manager.GetAttribute("date")
+         managerCustomer     = manager.GetAttribute("customer")
+         managerDistributor  = manager.GetAttribute("distributor")
+         managerSystemId     = manager.GetAttribute("systemId")
+         managerCount        = manager.Count   
+
+         getCommonData = checkForError()
+
+      End Function
+
+      '------------------------------------------------------------------------------------
+      Function getLicenseData()
+      
+         On Error Resume Next
+
+         Dim ELM_SITE_LICENSE, ELM_CAPACITY_LICENSE, ELM_CONCURRENT_LICENSE, ELM_LOCKED_LOCENSE
+         Dim ELM_UNLIMITED_LICENSES
+
+         ELM_SITE_LICENSE       = 1
+         ELM_CAPACITY_LICENSE   = 2
+         ELM_CONCURRENT_LICENSE = 3
+         ELM_LOCKED_LOCENSE     = 4
+         ELM_UNLIMITED_LICENSES = 2147483647
+
+         licenseClass        = license.GetAttribute("class")
+         licenseExpiresAfter = license.GetAttribute("expiresAfter")
+         licenseExpiresOn    = license.GetAttribute("expiresOn")
+
+         If license.HasExpired Then
+            licenseHasExpired   = "Expired"
+         Else
+            licenseHasExpired   = "Term License Agreement"
+         End If
+
+         licenseDaysRemaining = license.DaysRemaining
+         licenseInformation   = license.GetAttribute("information")
+         licenseName          = license.Name
+
+         emergencyExpires     = license.GetAttribute("emergencyExpires")
+         emergencyLimit       = license.EmergencyLimit
+
+         If license.Limit = ELM_UNLIMITED_LICENSES Then
+            licenseLimit = "Unlimited"
+         Else
+            licenseLimit = license.Limit
+         End If
+
+         licenseProduct      = license.GetAttribute("product")
+
+         Select Case license.Type
+            Case ELM_SITE_LICENSE
+               licenseType = "Site"
+
+            Case ELM_CAPACITY_LICENSE
+               licenseType = "Capacity"
+
+            Case ELM_CONCURRENT_LICENSE
+               licenseType = "Concurrent"
+
+            Case ELM_LOCKED_LOCENSE
+               licenseType = "Locked"
+
+            Case Else
+               licenseType = "Unknown"
+         End Select
+
+         getLicenseData = checkForError()
+
+      End Function
+
+      '------------------------------------------------------------------------------------
+      Function checkForError()
+ 
+         Dim   ELM_S_PARTIAL 
+         Dim   ELM_S_ACCESSDENIED 
+         Dim   ELM_LOCATION_FAILURE 
+         Dim   ELM_CONNECTION_FAILURE 
+         Dim   ELM_COMMUNICATION_FAILURE 
+         Dim   ELM_LICENSE_NOT_INSTALLED 
+         Dim   ELM_NOT_LOCKED_LICENSE 
+
+         ELM_S_PARTIAL             = 143163392
+         ELM_S_ACCESSDENIED        = 143163393
+         ELM_LOCATION_FAILURE      = -2004320256
+         ELM_CONNECTION_FAILURE    = -2004320255
+         ELM_COMMUNICATION_FAILURE = -2004320254
+         ELM_LICENSE_NOT_INSTALLED = -2004320240
+         ELM_NOT_LOCKED_LICENSE    = -2004320239
+
+         Select Case Err.Number
+            Case 0
+               checkForError = 0
+
+            Case 429         'cannot create object
+               errorText = vbCRLF & "Unable to communicate with Enterprise License Manager client." & vbCRLF & "It appears not being registered." & vbCRLF
+               checkForError = 1
+
+            Case ELM_S_PARTIAL
+               errorText = vbCRLF & "Some licenses reserved, but not all." & vbCRLF
+               checkForError = 0
+
+            Case ELM_S_ACCESSDENIED
+               errorText = vbCRLF & "Insuffecient authorization to cemplete task." & vbCRLF
+               checkForError = 0
+
+            Case ELM_LOCATION_FAILURE
+               errorText = vbCRLF & "Unable to locate Enterprise License Manager." & vbCRLF
+               checkForError = 1
+
+            Case ELM_CONNECTION_FAILURE
+               errorText = vbCRLF & "Unable to establish connection to Enterprise License Manager." & vbCRLF
+               checkForError = 1
+
+            Case ELM_COMMUNICATION_FAILURE
+               errorText = vbCRLF & "Unable to communicate with Enterprise License Manager after successful connection." & vbCRLF
+               checkForError = 0
+
+            Case ELM_LICENSE_NOT_INSTALLED
+               errorText = vbCRLF & "License is not installed." & vbCRLF
+               checkForError = 0
+
+            Case ELM_NOT_LOCKED_LICENSE
+               errorText = vbCRLF & "Operation valid for locked licenses only." & vbCRLF
+               checkForError = 0
+
+            Case Else
+               errorText = vbCRLF & "Unspecified failure" & vbCRLF
+               errorText = errorText & "Error number      : " & Err.Number & vbCRLF
+               errorText = errorText & "Error source      : " & Err.Source & vbCRLF 
+               errorText = errorText & "Error description : " & Err.Description & vbCRLF
+               checkForError = 1
+         End Select
+
+      End Function
+
+   </script>
+</job>

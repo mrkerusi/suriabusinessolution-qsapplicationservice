@@ -1,0 +1,397 @@
+"Hosp_Sibu"			
+"APS CLINIC / ANAES CLINIC","Hosp_Sibu"
+"BAHAGIAN IT","Hosp_Sibu"
+"BAHAGIAN SUMBER MANUSIA","Hosp_Sibu"
+"BILIK MESYUARAT","Hosp_Sibu"
+"CRC (RESERCH CENTRE)","Hosp_Sibu"
+"DARMATOLOGY CLINIC","Hosp_Sibu"
+"DENTAL CLINIC /KLINIK PERGIGIAN","Hosp_Sibu"
+"DEWAN BEDAH (OT)","Hosp_Sibu"
+"DIABETIST NURSES","Hosp_Sibu"
+"DIETATIC/DAPUR ( BLOK – H)","Hosp_Sibu"
+"DRY STORE","Hosp_Sibu"
+"EEG ROOM","Hosp_Sibu"
+"ENT CLINIC (KLINIK TEKAK TELINGA DAN HIDUNG)","Hosp_Sibu"
+"EYE CLINIC / KLINIK MATA","Hosp_Sibu"
+"FARMASI PESAKIT DALAM (IPD FARMASI)","Hosp_Sibu"
+"GYNAE CLINIC(KLINIK SAKIT PUAN )","Hosp_Sibu"
+"HEATH EDUCATION","Hosp_Sibu"
+"HOSPITAL SUPPORT SERVICE (HELP DESK)","Hosp_Sibu"
+"INFECTION CONTROL UNIT","Hosp_Sibu"
+"KAUNTER 36","Hosp_Sibu"
+"KAUNTER 37","Hosp_Sibu"
+"KAUNTER TEMUJANJI (APPOINTMENT COUNTER )","Hosp_Sibu"
+"KEJURUTERAAN","Hosp_Sibu"
+"KLINIK PEMBEDAHAN ( SURGICAL CLINIC )","Hosp_Sibu"
+"MAKMAL / LABORATORY","Hosp_Sibu"
+"MATRONS","Hosp_Sibu"
+"MEDICAL OFFICER ON CALL REST ROOM","Hosp_Sibu"
+"MEDICAL CLINIC (KLINIK PERUBATAN)","Hosp_Sibu"
+"MORTUARY ( RUMAH MAYAT )","Hosp_Sibu"
+"NURSERI RAWATAN KHAS (SCN)","Hosp_Sibu"
+"NURSING ADMINISTRATION","Hosp_Sibu"
+"NURSING SISTERS","Hosp_Sibu"
+"OCCUPATIONAL THERAPY (TERAPI CARAKERJA )","Hosp_Sibu"
+"ORTHOPEDIC CLINIC ( KLINIK SAKIT TULANG)","Hosp_Sibu"
+"OUT PATIENT PHARMACY","Hosp_Sibu"
+"PAEDIATRIC CLINIC ( KLINIK KANAK?KANAK )","Hosp_Sibu"
+"PEJABAT PENGURUSAN","Hosp_Sibu"
+"PERPUSTAKAAN","Hosp_Sibu"
+"PSYCHIATRIC CLINIC /KLINIK SAKIT JIWA","Hosp_Sibu"
+"RADIOLOGY /JABATAN PENGIMEJAN (BLOK D )","Hosp_Sibu"
+"SATELITE 1 & SATELITE 2","Hosp_Sibu"
+"STORE PHARMACY","Hosp_Sibu"
+"STRESS ECG/POP","Hosp_Sibu"
+"TRAUMA & EMERGENCY ( A & E )","Hosp_Sibu"
+"UKAH","Hosp_Sibu"
+"UNIMAS","Hosp_Sibu"
+"UNIT AKAUN & KEWANGAN","Hosp_Sibu"
+"UNIT HAEMODYLYSIS (HDU)","Hosp_Sibu"
+"UNIT KAUNSELING","Hosp_Sibu"
+"UNIT HASIL","Hosp_Sibu"
+"UNIT KEBAJIKAN (SOCIAL WELFARE )","Hosp_Sibu"
+"UNIT KESELAMATAN","Hosp_Sibu"
+"UNIT PENTADBIRAN AM","Hosp_Sibu"
+"UNIT PEROLEHAN & ASET","Hosp_Sibu"
+"UNIT PHYSIOTERAPI","Hosp_Sibu"
+"UNIT RAWATAN RAPI/KORONI (ICU)","Hosp_Sibu"
+"WAD 1 (DAY CARE)","Hosp_Sibu"
+"WAD PERUBUTAN PEREMPUAN","Hosp_Sibu"
+""WAD TELINGA, HIDUNG & TEKAK (ENT WAD)"","Hosp_Sibu"
+"WAD BERSALIN ( LABOUR ROOM )","Hosp_Sibu"
+"WAD DADA (CHEST WARD )","Hosp_Sibu"
+"WAD ORTHOPEDIC LELAKI (MALE ORTHOPEDIC )","Hosp_Sibu"
+"WAD ORTHOPEDIC PEREMPUAN (FEMALE ORTHOPEDIC WARD)","Hosp_Sibu"
+"WAD PEMBEDAHAN KANAK KANAK(PAED SURGICAL WARD )","Hosp_Sibu"
+"WAD PEMBEDAHAN KANAK?KANAK (PAED SURGICAL WAD )","Hosp_Sibu"
+"WAD PEMBEDAHAN LELAKI (MALE SURGICAL)","Hosp_Sibu"
+"WAD PEMBEDAHAN PEREMPUAN (FEMALE SURGICAL WAD)","Hosp_Sibu"
+"WAD PERUBATAN  DAN DENGGI (WAD 10)","Hosp_Sibu"
+"WAD PERUBATAN DAN DENGGI (WAD 10 )","Hosp_Sibu"
+"WAD PERUBATAN KANAK?KANAK (PAED 26 )","Hosp_Sibu"
+"WAD PERUBATAN KANAK?KANAK (PAED MEDICAL 20)","Hosp_Sibu"
+"WAD PERUBATAN KANAK?KANAK (PAED MEDICAL 27 )","Hosp_Sibu"
+"WAD PERUBATAN LELAKI & PEREMPUAN (WARD 25 )","Hosp_Sibu"
+"WAD PERUBATAN LELAKI (MALE MEDICAL WARD )","Hosp_Sibu"
+"WAD SAKIT JIWA (PSYCHIATRIC WARD)","Hosp_Sibu"
+"WAD SAKIT PUAN (GYNAE WAD)","Hosp_Sibu"
+"WAD SEBELUM BERSALIN (ANTE NATAL  WAD )","Hosp_Sibu"
+"WAD SELEPAS BERSALIN( POST NATAL )","Hosp_Sibu"
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				

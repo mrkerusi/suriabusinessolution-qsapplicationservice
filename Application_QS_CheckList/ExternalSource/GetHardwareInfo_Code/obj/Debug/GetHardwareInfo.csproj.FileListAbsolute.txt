@@ -1,0 +1,8 @@
+C:\Users\brightson\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\ExternalSource\GetHardwareInfo_Code\bin\Debug\GetHardwareInfo.exe
+C:\Users\brightson\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\ExternalSource\GetHardwareInfo_Code\bin\Debug\GetHardwareInfo.pdb
+C:\Users\brightson\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\ExternalSource\GetHardwareInfo_Code\obj\Debug\GetHardwareInfo.csprojResolveAssemblyReference.cache
+C:\Users\brightson\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\ExternalSource\GetHardwareInfo_Code\obj\Debug\GetHardwareInfo.frmMain.resources
+C:\Users\brightson\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\ExternalSource\GetHardwareInfo_Code\obj\Debug\GetHardwareInfo.Properties.Resources.resources
+C:\Users\brightson\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\ExternalSource\GetHardwareInfo_Code\obj\Debug\GetHardwareInfo.csproj.GenerateResource.Cache
+C:\Users\brightson\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\ExternalSource\GetHardwareInfo_Code\obj\Debug\GetHardwareInfo.exe
+C:\Users\brightson\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\ExternalSource\GetHardwareInfo_Code\obj\Debug\GetHardwareInfo.pdb

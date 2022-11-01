@@ -1,0 +1,40 @@
+2017-06-12 20:38:43 =>	[[P00:F00]]ERROR MESSAGE:Value cannot be null.
+Parameter name: hostNameOrAddress
+STACK TRACE:   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout)
+   at Application_QS_CheckList.Helper.GetIpAddressHelper.GetPingResult(String InputIP) in c:\Users\anakterang\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\Helper\GetIpAddressHelper.cs:line 31
+   at Application_QS_CheckList.InputData.Pingbtn_Click(Object sender, EventArgs e) in c:\Users\anakterang\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\InputData.cs:line 116
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at Application_QS_CheckList.Program.Main() in c:\Users\anakterang\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\Program.cs:line 31
+
+2017-06-12 21:12:38 =>	[[P00:F00]]ERROR MESSAGE:Value cannot be null.
+Parameter name: hostNameOrAddress
+STACK TRACE:   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout)
+   at Application_QS_CheckList.Helper.GetIpAddressHelper.GetPingResult(String InputIP) in c:\Users\anakterang\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\Helper\GetIpAddressHelper.cs:line 31
+   at Application_QS_CheckList.InputData.Pingbtn_Click(Object sender, EventArgs e) in c:\Users\anakterang\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\InputData.cs:line 115
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at Application_QS_CheckList.Program.Main() in c:\Users\anakterang\Documents\Visual Studio 2012\Projects\Application_QS_CheckList\Application_QS_CheckList\Program.cs:line 31
+
